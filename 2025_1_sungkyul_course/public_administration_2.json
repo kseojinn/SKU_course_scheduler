@@ -1,0 +1,65 @@
+{
+    "major": "행정학과(2부)",
+    "course": [
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01204",
+            "section": "002",
+            "name": "인사행정론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "월10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01215",
+            "section": "002",
+            "name": "정책학개론",
+            "credits": "3",
+            "professor": "남기범",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21698",
+            "section": "002",
+            "name": "행정과데이터활용",
+            "credits": "3",
+            "professor": "서인석",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00763",
+            "section": "003",
+            "name": "지방자치론",
+            "credits": "3",
+            "professor": "라휘문",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01225",
+            "section": "002",
+            "name": "행정법",
+            "credits": "3",
+            "professor": "김재희",
+            "time": "목10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17853",
+            "section": "002",
+            "name": "갈등관리및협상론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "수10-12"
+        }
+    ]
+}

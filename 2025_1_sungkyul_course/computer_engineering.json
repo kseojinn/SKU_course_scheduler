@@ -1,0 +1,325 @@
+{
+    "major": "컴퓨터공학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18360",
+            "section": "001",
+            "name": "컴퓨터공학입문",
+            "credits": "3",
+            "professor": "강영명",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18360",
+            "section": "002",
+            "name": "컴퓨터공학입문",
+            "credits": "3",
+            "professor": "강영명",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18360",
+            "section": "003",
+            "name": "컴퓨터공학입문",
+            "credits": "3",
+            "professor": "최정열",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20404",
+            "section": "001",
+            "name": "C프로그래밍",
+            "credits": "3",
+            "professor": "박미옥",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20404",
+            "section": "004",
+            "name": "C프로그래밍",
+            "credits": "3",
+            "professor": "박미옥",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01690",
+            "section": "001",
+            "name": "데이터구조",
+            "credits": "3",
+            "professor": "박미옥",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01690",
+            "section": "004",
+            "name": "데이터구조",
+            "credits": "3",
+            "professor": "박미옥",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01690",
+            "section": "005",
+            "name": "데이터구조",
+            "credits": "3",
+            "professor": "박미옥",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "20459",
+            "section": "001",
+            "name": "자바프로그래밍",
+            "credits": "3",
+            "professor": "최용석",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "20459",
+            "section": "002",
+            "name": "자바프로그래밍",
+            "credits": "3",
+            "professor": "최용석",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "20459",
+            "section": "003",
+            "name": "자바프로그래밍",
+            "credits": "3",
+            "professor": "최용석",
+            "time": "금1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01768",
+            "section": "001",
+            "name": "유닉스와리눅스",
+            "credits": "3",
+            "professor": "김동성",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01768",
+            "section": "002",
+            "name": "유닉스와리눅스",
+            "credits": "3",
+            "professor": "김동성",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20460",
+            "section": "001",
+            "name": "윈도우프로그래밍",
+            "credits": "3",
+            "professor": "심미나",
+            "time": "금4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20460",
+            "section": "002",
+            "name": "윈도우프로그래밍",
+            "credits": "3",
+            "professor": "심미나",
+            "time": "금1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "01307",
+            "section": "001",
+            "name": "소프트웨어공학",
+            "credits": "3",
+            "professor": "고혜경",
+            "time": "월1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "01307",
+            "section": "002",
+            "name": "소프트웨어공학",
+            "credits": "3",
+            "professor": "고혜경",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "01320",
+            "section": "001",
+            "name": "컴퓨터알고리즘",
+            "credits": "3",
+            "professor": "임태수",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "01320",
+            "section": "002",
+            "name": "컴퓨터알고리즘",
+            "credits": "3",
+            "professor": "임태수",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01309",
+            "section": "001",
+            "name": "인공지능",
+            "credits": "3",
+            "professor": "한경수",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01309",
+            "section": "002",
+            "name": "인공지능",
+            "credits": "3",
+            "professor": "한경수",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "06263",
+            "section": "001",
+            "name": "모바일프로그래밍",
+            "credits": "3",
+            "professor": "최정열",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "06263",
+            "section": "004",
+            "name": "모바일프로그래밍",
+            "credits": "3",
+            "professor": "최정열",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21093",
+            "section": "001",
+            "name": "웹응용기술(원격수업)",
+            "credits": "3",
+            "professor": "강영명",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21093",
+            "section": "002",
+            "name": "웹응용기술(원격수업)",
+            "credits": "3",
+            "professor": "강영명",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "17961",
+            "section": "001",
+            "name": "전공종합설계(2)",
+            "credits": "3",
+            "professor": "임태수",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "17961",
+            "section": "002",
+            "name": "전공종합설계(2)",
+            "credits": "3",
+            "professor": "한경수",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "17961",
+            "section": "003",
+            "name": "전공종합설계(2)",
+            "credits": "3",
+            "professor": "최정열",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "17961",
+            "section": "004",
+            "name": "전공종합설계(2)",
+            "credits": "3",
+            "professor": "강영명",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17962",
+            "section": "001",
+            "name": "비즈니스컴퓨팅기술",
+            "credits": "3",
+            "professor": "서병민",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19649",
+            "section": "010",
+            "name": "현장실습(4)",
+            "credits": "12",
+            "professor": "최정열",
+            "time": "일1-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20357",
+            "section": "001",
+            "name": "텍스트마이닝",
+            "credits": "3",
+            "professor": "한경수",
+            "time": "수7-9"
+        }
+    ]
+}

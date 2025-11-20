@@ -1,0 +1,485 @@
+{
+    "major": "경영학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "001",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "월2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "002",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "월4-5"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "003",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "화2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "004",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "화4-5"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "005",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "006",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "수4-5"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "007",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "008",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "목4-5"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "18281",
+            "section": "009",
+            "name": "비즈니스영어(1)",
+            "credits": "2",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "화10-11"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01111",
+            "section": "002",
+            "name": "회계원리",
+            "credits": "3",
+            "professor": "최현정",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01111",
+            "section": "003",
+            "name": "회계원리",
+            "credits": "3",
+            "professor": "최현정",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01111",
+            "section": "004",
+            "name": "회계원리",
+            "credits": "3",
+            "professor": "이재연",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01111",
+            "section": "005",
+            "name": "회계원리",
+            "credits": "3",
+            "professor": "심지수",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "17855",
+            "section": "002",
+            "name": "기업경영의이해",
+            "credits": "3",
+            "professor": "김정욱",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "17855",
+            "section": "003",
+            "name": "기업경영의이해",
+            "credits": "3",
+            "professor": "조군현",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "17855",
+            "section": "004",
+            "name": "기업경영의이해",
+            "credits": "3",
+            "professor": "조군현",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "17855",
+            "section": "005",
+            "name": "기업경영의이해",
+            "credits": "3",
+            "professor": "김정욱",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01109",
+            "section": "001",
+            "name": "재무관리",
+            "credits": "3",
+            "professor": "정희석",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01109",
+            "section": "003",
+            "name": "재무관리",
+            "credits": "3",
+            "professor": "김선제",
+            "time": "목1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01130",
+            "section": "001",
+            "name": "국제경영론",
+            "credits": "3",
+            "professor": "이윤선",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01133",
+            "section": "002",
+            "name": "마케팅론",
+            "credits": "3",
+            "professor": "정병규",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01133",
+            "section": "004",
+            "name": "마케팅론",
+            "credits": "3",
+            "professor": "김신애",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07533",
+            "section": "001",
+            "name": "인적자원관리",
+            "credits": "3",
+            "professor": "조군현",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07533",
+            "section": "003",
+            "name": "인적자원관리",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20639",
+            "section": "001",
+            "name": "품질운영론",
+            "credits": "3",
+            "professor": "이수진",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20639",
+            "section": "003",
+            "name": "품질운영론",
+            "credits": "3",
+            "professor": "이수진",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "011",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "정병규",
+            "time": "월7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01163",
+            "section": "001",
+            "name": "중급회계",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01174",
+            "section": "001",
+            "name": "국제마케팅(원격수업)",
+            "credits": "3",
+            "professor": "이윤선",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01174",
+            "section": "003",
+            "name": "국제마케팅",
+            "credits": "3",
+            "professor": "권미영",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01174",
+            "section": "004",
+            "name": "국제마케팅",
+            "credits": "3",
+            "professor": "권미영",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01193",
+            "section": "001",
+            "name": "소비자행동론",
+            "credits": "3",
+            "professor": "김미현",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19221",
+            "section": "001",
+            "name": "선물시장옵션론",
+            "credits": "3",
+            "professor": "김선제",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01127",
+            "section": "001",
+            "name": "세무회계",
+            "credits": "3",
+            "professor": "최현정",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20446",
+            "section": "001",
+            "name": "무역실무론",
+            "credits": "3",
+            "professor": "정병규",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20617",
+            "section": "001",
+            "name": "마케팅리서치",
+            "credits": "3",
+            "professor": "곽보선",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20618",
+            "section": "002",
+            "name": "핀테크론",
+            "credits": "3",
+            "professor": "박광현",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01130",
+            "section": "002",
+            "name": "국제경영론",
+            "credits": "3",
+            "professor": "곽보선",
+            "time": "화13-15"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01133",
+            "section": "003",
+            "name": "마케팅론",
+            "credits": "3",
+            "professor": "김신애",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07533",
+            "section": "002",
+            "name": "인적자원관리",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "목10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20639",
+            "section": "002",
+            "name": "품질운영론",
+            "credits": "3",
+            "professor": "이수진",
+            "time": "목10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "012",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "조군현",
+            "time": "월10-11"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01163",
+            "section": "002",
+            "name": "중급회계",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01174",
+            "section": "002",
+            "name": "국제마케팅(원격수업)",
+            "credits": "3",
+            "professor": "이윤선",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01193",
+            "section": "002",
+            "name": "소비자행동론",
+            "credits": "3",
+            "professor": "김미현",
+            "time": "목10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19221",
+            "section": "002",
+            "name": "선물시장옵션론",
+            "credits": "3",
+            "professor": "김선제",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20446",
+            "section": "002",
+            "name": "무역실무론(원격수업)",
+            "credits": "3",
+            "professor": "정병규",
+            "time": "화10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20617",
+            "section": "002",
+            "name": "마케팅리서치(원격수업)",
+            "credits": "3",
+            "professor": "곽보선",
+            "time": "화10-12"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "major": "중어중문학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01905",
+            "section": "001",
+            "name": "한문강독",
+            "credits": "3",
+            "professor": "빈미정",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21689",
+            "section": "001",
+            "name": "기초중국어회화(기본)",
+            "credits": "3",
+            "professor": "ZHENGDIANHUI",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21689",
+            "section": "002",
+            "name": "기초중국어회화(기본)",
+            "credits": "3",
+            "professor": "ZHENGDIANHUI",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21689",
+            "section": "003",
+            "name": "기초중국어회화(기본)",
+            "credits": "3",
+            "professor": "ZHENGDIANHUI",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21714",
+            "section": "001",
+            "name": "중국전통과사회문화",
+            "credits": "3",
+            "professor": "문정진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21714",
+            "section": "002",
+            "name": "중국전통과사회문화",
+            "credits": "3",
+            "professor": "문정진",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "02112",
+            "section": "001",
+            "name": "중국문학개관",
+            "credits": "3",
+            "professor": "문정진",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "02138",
+            "section": "001",
+            "name": "중국현대문학의이해",
+            "credits": "3",
+            "professor": "심혜영",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18341",
+            "section": "001",
+            "name": "초급중국어강독",
+            "credits": "3",
+            "professor": "빈미정",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21691",
+            "section": "001",
+            "name": "실용중국어회화(기본)",
+            "credits": "3",
+            "professor": "SUNZHEN",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21691",
+            "section": "002",
+            "name": "실용중국어회화(기본)",
+            "credits": "3",
+            "professor": "SUNZHEN",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "02148",
+            "section": "001",
+            "name": "중국어문법의이해",
+            "credits": "3",
+            "professor": "SUNZHEN",
+            "time": "목1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "07453",
+            "section": "001",
+            "name": "고급중국어강독",
+            "credits": "3",
+            "professor": "빈미정",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18211",
+            "section": "001",
+            "name": "중국어교과교육론",
+            "credits": "3",
+            "professor": "SUNZHEN",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19587",
+            "section": "001",
+            "name": "비즈니스중국어(1)",
+            "credits": "3",
+            "professor": "ZHENGDIANHUI",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18204",
+            "section": "001",
+            "name": "중국어논리및논술",
+            "credits": "3",
+            "professor": "SUNZHEN",
+            "time": "목7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19590",
+            "section": "001",
+            "name": "중국현대문학세미나",
+            "credits": "3",
+            "professor": "심혜영",
+            "time": "목4-6"
+        }
+    ]
+}

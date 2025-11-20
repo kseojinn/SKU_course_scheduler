@@ -1,0 +1,125 @@
+{
+    "major": "국제개발협력학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "19890",
+            "section": "001",
+            "name": "국제개발협력론",
+            "credits": "3",
+            "professor": "임형백",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18411",
+            "section": "001",
+            "name": "세계및지역연구",
+            "credits": "3",
+            "professor": "임형백",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19889",
+            "section": "001",
+            "name": "지리학개론",
+            "credits": "3",
+            "professor": "남수연",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00750",
+            "section": "001",
+            "name": "농촌개발론",
+            "credits": "3",
+            "professor": "임정희",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19892",
+            "section": "001",
+            "name": "인류학개론",
+            "credits": "3",
+            "professor": "임형백",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21448",
+            "section": "001",
+            "name": "경제발전이론과실무",
+            "credits": "3",
+            "professor": "문정혜",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "18464",
+            "section": "001",
+            "name": "공적개발원조론",
+            "credits": "3",
+            "professor": "임정희",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19897",
+            "section": "001",
+            "name": "국제개발협력과NGOs",
+            "credits": "3",
+            "professor": "남수연",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19898",
+            "section": "001",
+            "name": "지역분석론",
+            "credits": "3",
+            "professor": "박상희",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21450",
+            "section": "001",
+            "name": "환경과개발",
+            "credits": "3",
+            "professor": "남수연",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19905",
+            "section": "001",
+            "name": "제3국국제개발협력연구",
+            "credits": "3",
+            "professor": "김철민",
+            "time": "월4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19906",
+            "section": "001",
+            "name": "경제사상사",
+            "credits": "3",
+            "professor": "김철민",
+            "time": "월7-9"
+        }
+    ]
+}

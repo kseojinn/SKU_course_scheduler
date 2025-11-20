@@ -1,0 +1,185 @@
+{
+    "major": "신학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "22005",
+            "section": "001",
+            "name": "기독교세계관과진로",
+            "credits": "3",
+            "professor": "윤영훈",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21474",
+            "section": "001",
+            "name": "구약성서이야기",
+            "credits": "3",
+            "professor": "최기수",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21952",
+            "section": "001",
+            "name": "공동체성경읽기",
+            "credits": "3",
+            "professor": "이경진",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21956",
+            "section": "001",
+            "name": "지성과영성",
+            "credits": "3",
+            "professor": "이민형",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00100",
+            "section": "001",
+            "name": "조직신학",
+            "credits": "3",
+            "professor": "배명지",
+            "time": "수1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00462",
+            "section": "001",
+            "name": "세계종교사",
+            "credits": "3",
+            "professor": "정상운",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20943",
+            "section": "001",
+            "name": "NGO와 사회선교",
+            "credits": "3",
+            "professor": "구성모",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21474",
+            "section": "002",
+            "name": "구약성서이야기",
+            "credits": "3",
+            "professor": "최기수",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21486",
+            "section": "001",
+            "name": "찬양사역실습",
+            "credits": "3",
+            "professor": "이재민",
+            "time": "화1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00075",
+            "section": "001",
+            "name": "실천신학",
+            "credits": "3",
+            "professor": "송훈호",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20437",
+            "section": "001",
+            "name": "한류와글로벌리즘",
+            "credits": "3",
+            "professor": "이수환",
+            "time": "수1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21491",
+            "section": "001",
+            "name": "현대사회와기독교윤리",
+            "credits": "3",
+            "professor": "윤덕남",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21494",
+            "section": "001",
+            "name": "데이터베이스성서연구",
+            "credits": "3",
+            "professor": "신성관",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21497",
+            "section": "001",
+            "name": "토라와지혜",
+            "credits": "3",
+            "professor": "최종원",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19847",
+            "section": "001",
+            "name": "사역실습",
+            "credits": "0",
+            "professor": "오현철",
+            "time": "목3-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "00477",
+            "section": "001",
+            "name": "청소년사역과상담",
+            "credits": "3",
+            "professor": "한상희",
+            "time": "목4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "00531",
+            "section": "001",
+            "name": "현대신학개론",
+            "credits": "3",
+            "professor": "최영민",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20418",
+            "section": "001",
+            "name": "성서그리스어",
+            "credits": "3",
+            "professor": "배원섭",
+            "time": "월1-3"
+        }
+    ]
+}

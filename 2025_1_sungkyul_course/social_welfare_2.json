@@ -1,0 +1,135 @@
+{
+    "major": "사회복지학과(2부)",
+    "course": [
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00802",
+            "section": "002",
+            "name": "사회문제론",
+            "credits": "3",
+            "professor": "김신호",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00806",
+            "section": "002",
+            "name": "사회복지정책론",
+            "credits": "3",
+            "professor": "송원찬",
+            "time": "화13-15"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00842",
+            "section": "002",
+            "name": "사회복지윤리와철학",
+            "credits": "3",
+            "professor": "신연희",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00845",
+            "section": "002",
+            "name": "사회복지실천론",
+            "credits": "3",
+            "professor": "김미숙",
+            "time": "목10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00847",
+            "section": "002",
+            "name": "장애인복지론",
+            "credits": "3",
+            "professor": "이미래",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00864",
+            "section": "002",
+            "name": "아동복지론",
+            "credits": "3",
+            "professor": "이현경",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00876",
+            "section": "002",
+            "name": "사회복지조사론",
+            "credits": "3",
+            "professor": "김정희",
+            "time": "수10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00889",
+            "section": "002",
+            "name": "사례관리론",
+            "credits": "3",
+            "professor": "이찬영",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "04734",
+            "section": "002",
+            "name": "프로그램개발과평가",
+            "credits": "3",
+            "professor": "이찬영",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20734",
+            "section": "002",
+            "name": "정신건강사회복지론",
+            "credits": "3",
+            "professor": "이근주",
+            "time": "목10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "00888",
+            "section": "002",
+            "name": "사회복지현장실습(2)",
+            "credits": "3",
+            "professor": "윤순이",
+            "time": "목10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "07221",
+            "section": "002",
+            "name": "사회복지특강(원격수업)",
+            "credits": "3",
+            "professor": "신연희",
+            "time": "화10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20737",
+            "section": "002",
+            "name": "학교사회복지론",
+            "credits": "3",
+            "professor": "이창숙",
+            "time": "수10-12"
+        }
+    ]
+}

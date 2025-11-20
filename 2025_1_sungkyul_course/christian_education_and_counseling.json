@@ -1,0 +1,175 @@
+{
+    "major": "기독교교육상담학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "20958",
+            "section": "001",
+            "name": "발달심리",
+            "credits": "3",
+            "professor": "박미라",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "21454",
+            "section": "001",
+            "name": "예수와교육",
+            "credits": "3",
+            "professor": "박은혜",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21695",
+            "section": "001",
+            "name": "기독교음악과상담",
+            "credits": "3",
+            "professor": "박지원",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "22004",
+            "section": "001",
+            "name": "기독교교육상담학입문",
+            "credits": "3",
+            "professor": "박미라",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00588",
+            "section": "001",
+            "name": "기독교교육철학",
+            "credits": "3",
+            "professor": "박은혜",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00626",
+            "section": "001",
+            "name": "기독교교육개론",
+            "credits": "3",
+            "professor": "이은성",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "04825",
+            "section": "001",
+            "name": "진로상담",
+            "credits": "3",
+            "professor": "박현정",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20968",
+            "section": "001",
+            "name": "청소년활동",
+            "credits": "3",
+            "professor": "이지혜",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21451",
+            "section": "001",
+            "name": "신·구약개론",
+            "credits": "3",
+            "professor": "조상수",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00166",
+            "section": "001",
+            "name": "종교심리학",
+            "credits": "3",
+            "professor": "박은혜",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18210",
+            "section": "001",
+            "name": "종교교과논리및논술",
+            "credits": "3",
+            "professor": "이은성",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20960",
+            "section": "001",
+            "name": "청소년지도방법론",
+            "credits": "3",
+            "professor": "이보라",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21452",
+            "section": "001",
+            "name": "심리측정및평가",
+            "credits": "3",
+            "professor": "조안나",
+            "time": "목1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "20961",
+            "section": "001",
+            "name": "기독교교육상담실습",
+            "credits": "0",
+            "professor": "박미라",
+            "time": "목9-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "04771",
+            "section": "001",
+            "name": "가족상담",
+            "credits": "3",
+            "professor": "이시종",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18209",
+            "section": "001",
+            "name": "종교교과교재연구및지도법",
+            "credits": "3",
+            "professor": "박미라",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20963",
+            "section": "001",
+            "name": "청소년프로그램개발과평가",
+            "credits": "3",
+            "professor": "명봉호",
+            "time": "월7-9"
+        }
+    ]
+}

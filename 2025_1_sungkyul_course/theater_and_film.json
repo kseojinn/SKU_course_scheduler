@@ -1,0 +1,55 @@
+{
+    "major": "연극영화학부",
+    "course": [
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18169",
+            "section": "001",
+            "name": "공연제작프로젝트(1)",
+            "credits": "3",
+            "professor": "김규진",
+            "time": "금6-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18187",
+            "section": "001",
+            "name": "영화,시사,그리고사회",
+            "credits": "2",
+            "professor": "정민아",
+            "time": "목8-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18187",
+            "section": "002",
+            "name": "영화,시사,그리고사회",
+            "credits": "2",
+            "professor": "김찬희",
+            "time": "목8-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18192",
+            "section": "001",
+            "name": "단편영화제작(3)",
+            "credits": "3",
+            "professor": "류훈",
+            "time": "목3-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18192",
+            "section": "002",
+            "name": "단편영화제작(3)",
+            "credits": "3",
+            "professor": "송예진",
+            "time": "목3-6"
+        }
+    ]
+}

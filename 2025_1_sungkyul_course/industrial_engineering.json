@@ -1,0 +1,245 @@
+{
+    "major": "산업경영공학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "07754",
+            "section": "001",
+            "name": "미적분학",
+            "credits": "3",
+            "professor": "심재영",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21921",
+            "section": "001",
+            "name": "산업경영공학입문",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21921",
+            "section": "002",
+            "name": "산업경영공학입문",
+            "credits": "3",
+            "professor": "방준영",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "05147",
+            "section": "001",
+            "name": "경영과학",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "05147",
+            "section": "002",
+            "name": "경영과학",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "013",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "방준영",
+            "time": "화4-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21116",
+            "section": "001",
+            "name": "객체지향 프로그래밍 언어",
+            "credits": "3",
+            "professor": "이시영",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21116",
+            "section": "002",
+            "name": "객체지향 프로그래밍 언어",
+            "credits": "3",
+            "professor": "이시영",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21368",
+            "section": "001",
+            "name": "공학통계",
+            "credits": "3",
+            "professor": "엄용환",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21368",
+            "section": "002",
+            "name": "공학통계",
+            "credits": "3",
+            "professor": "엄용환",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01756",
+            "section": "001",
+            "name": "실험계획법",
+            "credits": "3",
+            "professor": "민철홍",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01756",
+            "section": "002",
+            "name": "실험계획법",
+            "credits": "3",
+            "professor": "민철홍",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "07621",
+            "section": "001",
+            "name": "생산운영관리",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "07621",
+            "section": "002",
+            "name": "생산운영관리",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18372",
+            "section": "001",
+            "name": "신뢰성공학",
+            "credits": "3",
+            "professor": "김진국",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18473",
+            "section": "001",
+            "name": "품질관리",
+            "credits": "3",
+            "professor": "김태광",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18473",
+            "section": "002",
+            "name": "품질관리",
+            "credits": "3",
+            "professor": "김태광",
+            "time": "목7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19882",
+            "section": "001",
+            "name": "캡스톤디자인",
+            "credits": "3",
+            "professor": "방준영",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19882",
+            "section": "002",
+            "name": "캡스톤디자인",
+            "credits": "3",
+            "professor": "방준영",
+            "time": "목7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19882",
+            "section": "003",
+            "name": "캡스톤디자인",
+            "credits": "3",
+            "professor": "임승길",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18372",
+            "section": "002",
+            "name": "신뢰성공학",
+            "credits": "3",
+            "professor": "김진국",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20623",
+            "section": "001",
+            "name": "품질경영실무",
+            "credits": "3",
+            "professor": "민철홍",
+            "time": "월1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21110",
+            "section": "001",
+            "name": "인공지능 어플리케이션 개발",
+            "credits": "3",
+            "professor": "방준영",
+            "time": "월4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21110",
+            "section": "002",
+            "name": "인공지능 어플리케이션 개발",
+            "credits": "3",
+            "professor": "방준영",
+            "time": "목4-6"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "major": "행정학부",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "00763",
+            "section": "002",
+            "name": "지방자치론",
+            "credits": "3",
+            "professor": "이용환",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01201",
+            "section": "001",
+            "name": "행정학개론",
+            "credits": "3",
+            "professor": "송효진",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01229",
+            "section": "001",
+            "name": "조직론",
+            "credits": "3",
+            "professor": "라휘문",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01204",
+            "section": "001",
+            "name": "인사행정론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01215",
+            "section": "001",
+            "name": "정책학개론",
+            "credits": "3",
+            "professor": "남기범",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21698",
+            "section": "001",
+            "name": "행정과데이터활용",
+            "credits": "3",
+            "professor": "서인석",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00763",
+            "section": "001",
+            "name": "지방자치론",
+            "credits": "3",
+            "professor": "이용환",
+            "time": "목1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01202",
+            "section": "001",
+            "name": "기획론",
+            "credits": "3",
+            "professor": "송효진",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01225",
+            "section": "001",
+            "name": "행정법",
+            "credits": "3",
+            "professor": "김재희",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01288",
+            "section": "001",
+            "name": "정부혁신론",
+            "credits": "3",
+            "professor": "허아랑",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20454",
+            "section": "001",
+            "name": "행정정보관리론",
+            "credits": "3",
+            "professor": "송효진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01208",
+            "section": "001",
+            "name": "행정철학",
+            "credits": "3",
+            "professor": "서인석",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01235",
+            "section": "001",
+            "name": "정부기업관계론",
+            "credits": "3",
+            "professor": "박관태",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17852",
+            "section": "001",
+            "name": "정책평가론",
+            "credits": "3",
+            "professor": "이규민",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17853",
+            "section": "001",
+            "name": "갈등관리및협상론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01204",
+            "section": "002",
+            "name": "인사행정론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "월10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01215",
+            "section": "002",
+            "name": "정책학개론",
+            "credits": "3",
+            "professor": "남기범",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21698",
+            "section": "002",
+            "name": "행정과데이터활용",
+            "credits": "3",
+            "professor": "서인석",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "00763",
+            "section": "003",
+            "name": "지방자치론",
+            "credits": "3",
+            "professor": "라휘문",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01225",
+            "section": "002",
+            "name": "행정법",
+            "credits": "3",
+            "professor": "김재희",
+            "time": "목10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17853",
+            "section": "002",
+            "name": "갈등관리및협상론",
+            "credits": "3",
+            "professor": "임정빈",
+            "time": "수10-12"
+        }
+    ]
+}

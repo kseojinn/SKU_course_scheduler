@@ -1,0 +1,955 @@
+{
+    "major": "실용음악과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "21373",
+            "section": "001",
+            "name": "위클리공연실습(1)",
+            "credits": "1",
+            "professor": "이창구",
+            "time": "화9-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "001",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "김정민",
+            "time": "금7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "002",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "이신희",
+            "time": "화3-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "003",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "이신희",
+            "time": "화5-5"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "004",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "이신희",
+            "time": "화6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "005",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "정희영",
+            "time": "월2-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "006",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "정희영",
+            "time": "월1-1"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "007",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "008",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "009",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "010",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박상현",
+            "time": "수4-4"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "011",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박상현",
+            "time": "수5-5"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "012",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박상현",
+            "time": "수6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "013",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "임주연",
+            "time": "화6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "014",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "허석",
+            "time": "월4-4"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "015",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "허석",
+            "time": "월9-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "016",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "허석",
+            "time": "월11-11"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "017",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박희영",
+            "time": "화2-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "018",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박희영",
+            "time": "화3-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "019",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박희영",
+            "time": "화8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "020",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "박희영",
+            "time": "화7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "021",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "엄세현",
+            "time": "목8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "022",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "023",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "024",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수4-4"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "025",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수9-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "026",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "이창구",
+            "time": "화8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01429",
+            "section": "027",
+            "name": "전공실기(1)",
+            "credits": "1",
+            "professor": "이창구",
+            "time": "수9-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21379",
+            "section": "001",
+            "name": "부실기(기초)",
+            "credits": "2",
+            "professor": "정희영",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21379",
+            "section": "002",
+            "name": "부실기(기초)",
+            "credits": "2",
+            "professor": "김효식",
+            "time": "월10-11"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21381",
+            "section": "001",
+            "name": "라이브퍼포먼스 기초",
+            "credits": "2",
+            "professor": "이윤상",
+            "time": "월2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21509",
+            "section": "001",
+            "name": "실용음악기초이론",
+            "credits": "2",
+            "professor": "엄세현",
+            "time": "목9-10"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21883",
+            "section": "001",
+            "name": "대중음악의이해",
+            "credits": "2",
+            "professor": "이창구",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21884",
+            "section": "001",
+            "name": "로직프로(기초)",
+            "credits": "2",
+            "professor": "이정현",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21906",
+            "section": "001",
+            "name": "시창과청음",
+            "credits": "2",
+            "professor": "허석",
+            "time": "월5-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "21375",
+            "section": "001",
+            "name": "위클리공연실습(3)",
+            "credits": "1",
+            "professor": "유현식",
+            "time": "화9-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "001",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "손현정",
+            "time": "화6-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "002",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이선아",
+            "time": "목5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "003",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이선아",
+            "time": "목3-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "004",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이율구",
+            "time": "월11-11"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "005",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이율구",
+            "time": "월12-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "006",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김지희",
+            "time": "화5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "007",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김지희",
+            "time": "화4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "008",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김지희",
+            "time": "화3-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "009",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김승희",
+            "time": "화5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "011",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이정현",
+            "time": "목8-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "012",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이정현",
+            "time": "목11-11"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "013",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이신희",
+            "time": "화7-7"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "014",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "박란",
+            "time": "수4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "015",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "박란",
+            "time": "수5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "016",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "박란",
+            "time": "수7-7"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "017",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월1-1"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "018",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "019",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "김영진",
+            "time": "월5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "020",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "임주현",
+            "time": "수11-11"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "021",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "임주현",
+            "time": "수12-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "022",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "임주연",
+            "time": "화4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "023",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "허석",
+            "time": "월10-10"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "024",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이승호",
+            "time": "월5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "026",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이윤상",
+            "time": "월1-1"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "027",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이윤상",
+            "time": "월8-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "028",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이윤상",
+            "time": "월9-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01431",
+            "section": "029",
+            "name": "전공실기(3)",
+            "credits": "1",
+            "professor": "이윤상",
+            "time": "월10-10"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "006",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "김우준",
+            "time": "월2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21387",
+            "section": "001",
+            "name": "ProTools(기초)",
+            "credits": "2",
+            "professor": "차동규",
+            "time": "목2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21388",
+            "section": "001",
+            "name": "ArrangementTechnic(기초)",
+            "credits": "2",
+            "professor": "김정민",
+            "time": "월5-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21388",
+            "section": "002",
+            "name": "ArrangementTechnic(기초)",
+            "credits": "2",
+            "professor": "김정민",
+            "time": "월7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "21377",
+            "section": "001",
+            "name": "위클리공연실습(5)",
+            "credits": "1",
+            "professor": "손현정",
+            "time": "화9-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "001",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "김우준",
+            "time": "월5-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "002",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "이선아",
+            "time": "목4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "003",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "이선아",
+            "time": "목6-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "004",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "김종필",
+            "time": "목2-2"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "005",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "김종필",
+            "time": "목3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "006",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "김종필",
+            "time": "목4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "007",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "이신희",
+            "time": "화4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "008",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "정희영",
+            "time": "월3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "009",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "임주현",
+            "time": "수10-10"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "010",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "임주연",
+            "time": "화3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "011",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "임주연",
+            "time": "화7-7"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "012",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "임주연",
+            "time": "화8-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "013",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "허석",
+            "time": "월7-7"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "014",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "이승호",
+            "time": "월4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "015",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "한찬양",
+            "time": "화5-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "016",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "한찬양",
+            "time": "화6-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "017",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "018",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "하형주",
+            "time": "수2-2"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "019",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "이윤상",
+            "time": "월5-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01433",
+            "section": "020",
+            "name": "전공실기(5)",
+            "credits": "1",
+            "professor": "김승희",
+            "time": "화6-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20018",
+            "section": "001",
+            "name": "리듬실습",
+            "credits": "2",
+            "professor": "이창구",
+            "time": "수4-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21391",
+            "section": "001",
+            "name": "시창과청음(고급)",
+            "credits": "2",
+            "professor": "김종필",
+            "time": "목5-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21392",
+            "section": "001",
+            "name": "싱어송라이팅",
+            "credits": "2",
+            "professor": "이율구",
+            "time": "월9-10"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21393",
+            "section": "001",
+            "name": "건반 프로듀싱",
+            "credits": "2",
+            "professor": "이승호",
+            "time": "월2-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21394",
+            "section": "001",
+            "name": "프로덕션 기획및 개발",
+            "credits": "2",
+            "professor": "이동주",
+            "time": "수7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21395",
+            "section": "001",
+            "name": "K-MusicContents작곡",
+            "credits": "2",
+            "professor": "유현식",
+            "time": "목7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21395",
+            "section": "002",
+            "name": "K-MusicContents작곡",
+            "credits": "2",
+            "professor": "이정현",
+            "time": "목9-10"
+        }
+    ]
+}
