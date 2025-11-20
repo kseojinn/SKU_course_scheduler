@@ -1,0 +1,265 @@
+{
+    "major": "유아교육과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "04745",
+            "section": "001",
+            "name": "유아교육론",
+            "credits": "3",
+            "professor": "조유진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "04745",
+            "section": "002",
+            "name": "유아교육론",
+            "credits": "3",
+            "professor": "조유진",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "07639",
+            "section": "001",
+            "name": "특수아동지도",
+            "credits": "3",
+            "professor": "장윤용",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21142",
+            "section": "001",
+            "name": "유아교육과창의인성",
+            "credits": "3",
+            "professor": "임희수",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "00903",
+            "section": "001",
+            "name": "유아교육과정",
+            "credits": "3",
+            "professor": "임희수",
+            "time": "수1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "00903",
+            "section": "002",
+            "name": "유아교육과정",
+            "credits": "3",
+            "professor": "박성진",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00906",
+            "section": "001",
+            "name": "유아사회교육",
+            "credits": "3",
+            "professor": "신수진",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00906",
+            "section": "002",
+            "name": "유아사회교육",
+            "credits": "3",
+            "professor": "신수진",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00948",
+            "section": "001",
+            "name": "유아동작교육",
+            "credits": "3",
+            "professor": "이경진",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00948",
+            "section": "002",
+            "name": "유아동작교육",
+            "credits": "3",
+            "professor": "이경진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "00965",
+            "section": "001",
+            "name": "유아미술교육",
+            "credits": "3",
+            "professor": "김수희",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20700",
+            "section": "001",
+            "name": "장애영유아통합교육",
+            "credits": "3",
+            "professor": "구본경",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18236",
+            "section": "001",
+            "name": "유아관찰및실습",
+            "credits": "3",
+            "professor": "임은미",
+            "time": "화1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18236",
+            "section": "002",
+            "name": "유아관찰및실습",
+            "credits": "3",
+            "professor": "임은미",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20640",
+            "section": "001",
+            "name": "유아교수방법론",
+            "credits": "3",
+            "professor": "이경진",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20640",
+            "section": "002",
+            "name": "유아교수방법론",
+            "credits": "3",
+            "professor": "이경진",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20702",
+            "section": "001",
+            "name": "특수교육측정및 평가",
+            "credits": "3",
+            "professor": "장윤용",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21144",
+            "section": "001",
+            "name": "유아캡스톤디자인",
+            "credits": "3",
+            "professor": "김수희",
+            "time": "수1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "00908",
+            "section": "001",
+            "name": "유아언어교육",
+            "credits": "3",
+            "professor": "신수진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "00908",
+            "section": "002",
+            "name": "유아언어교육",
+            "credits": "3",
+            "professor": "오성은",
+            "time": "수1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "07773",
+            "section": "001",
+            "name": "아동생활지도",
+            "credits": "3",
+            "professor": "박수정",
+            "time": "월1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18136",
+            "section": "001",
+            "name": "유아교사론",
+            "credits": "3",
+            "professor": "조유진",
+            "time": "목4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18136",
+            "section": "002",
+            "name": "유아교사론",
+            "credits": "3",
+            "professor": "조유진",
+            "time": "목7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18220",
+            "section": "001",
+            "name": "유아교과교재연구및지도법",
+            "credits": "3",
+            "professor": "임은미",
+            "time": "월4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18220",
+            "section": "002",
+            "name": "유아교과교재연구및지도법",
+            "credits": "3",
+            "professor": "임은미",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20704",
+            "section": "001",
+            "name": "정신지체아교육",
+            "credits": "3",
+            "professor": "구본경",
+            "time": "목1-3"
+        }
+    ]
+}

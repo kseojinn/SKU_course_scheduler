@@ -1,0 +1,925 @@
+{
+    "major": "음악학부",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "19977",
+            "section": "001",
+            "name": "연주실습(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수8-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18435",
+            "section": "001",
+            "name": "실기클래스(1)",
+            "credits": "1",
+            "professor": "김기량",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18435",
+            "section": "002",
+            "name": "실기클래스(1)",
+            "credits": "1",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19974",
+            "section": "001",
+            "name": "기초음악이론",
+            "credits": "2",
+            "professor": "최은진",
+            "time": "월4-5"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "19979",
+            "section": "001",
+            "name": "연주실습(3)",
+            "credits": "1",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "수8-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01449",
+            "section": "001",
+            "name": "화성학(2)",
+            "credits": "2",
+            "professor": "최은진",
+            "time": "수4-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01546",
+            "section": "001",
+            "name": "합창(1)",
+            "credits": "1",
+            "professor": "정현혜",
+            "time": "화7-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18505",
+            "section": "002",
+            "name": "실기클래스(3)",
+            "credits": "1",
+            "professor": "박민영",
+            "time": "화2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18505",
+            "section": "003",
+            "name": "실기클래스(3)",
+            "credits": "1",
+            "professor": "신창식",
+            "time": "화5-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20479",
+            "section": "001",
+            "name": "전공영어(1)",
+            "credits": "3",
+            "professor": "KYEBONGWON",
+            "time": "금4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21459",
+            "section": "001",
+            "name": "서양예술과 음악",
+            "credits": "2",
+            "professor": "진유정",
+            "time": "목4-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01487",
+            "section": "001",
+            "name": "서양음악사(2)",
+            "credits": "2",
+            "professor": "이주희",
+            "time": "화4-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01548",
+            "section": "001",
+            "name": "합창(3)",
+            "credits": "1",
+            "professor": "정현혜",
+            "time": "화7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19981",
+            "section": "001",
+            "name": "연주실습(5)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수8-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21461",
+            "section": "001",
+            "name": "연주를위한음악분석",
+            "credits": "2",
+            "professor": "최은진",
+            "time": "월7-8"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "20906",
+            "section": "001",
+            "name": "캡스톤디자인(2)",
+            "credits": "3",
+            "professor": "김지만",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01550",
+            "section": "001",
+            "name": "합창(5)",
+            "credits": "1",
+            "professor": "정현혜",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01474",
+            "section": "001",
+            "name": "이태리어딕션",
+            "credits": "2",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "월2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "17900",
+            "section": "001",
+            "name": "성악의이해(1)",
+            "credits": "2",
+            "professor": "김동현",
+            "time": "화2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20915",
+            "section": "001",
+            "name": "성악 전공실기(1)",
+            "credits": "1",
+            "professor": "김동현",
+            "time": "화7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21514",
+            "section": "001",
+            "name": "시창청음성악(기초)",
+            "credits": "2",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "화4-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01517",
+            "section": "001",
+            "name": "성악문헌(1)",
+            "credits": "2",
+            "professor": "KYEBONGWON",
+            "time": "목7-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20925",
+            "section": "001",
+            "name": "성악 전공실기(3)",
+            "credits": "1",
+            "professor": "KYEBONGWON",
+            "time": "수7-7"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21504",
+            "section": "001",
+            "name": "무대동작",
+            "credits": "2",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "수2-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "17904",
+            "section": "001",
+            "name": "불어가곡",
+            "credits": "2",
+            "professor": "김동현",
+            "time": "화5-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20927",
+            "section": "001",
+            "name": "성악 전공실기(5)",
+            "credits": "1",
+            "professor": "정재환",
+            "time": "월4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21086",
+            "section": "001",
+            "name": "오페라워크샵(1)",
+            "credits": "2",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "수4-5"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "17954",
+            "section": "001",
+            "name": "현대가곡",
+            "credits": "2",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "월4-5"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20916",
+            "section": "001",
+            "name": "성악 세미나(1)",
+            "credits": "1",
+            "professor": "김동현",
+            "time": "화4-4"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20929",
+            "section": "001",
+            "name": "성악 전공실기(7)",
+            "credits": "1",
+            "professor": "김동현",
+            "time": "목3-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20929",
+            "section": "002",
+            "name": "성악 전공실기(7)",
+            "credits": "1",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "수7-7"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20929",
+            "section": "003",
+            "name": "성악 전공실기(7)",
+            "credits": "1",
+            "professor": "KWAKHYUNJOORACHEL",
+            "time": "수9-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20929",
+            "section": "004",
+            "name": "성악 전공실기(7)",
+            "credits": "1",
+            "professor": "KYEBONGWON",
+            "time": "수9-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19987",
+            "section": "001",
+            "name": "피아노기초이론(1)",
+            "credits": "2",
+            "professor": "이주희",
+            "time": "화2-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "001",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "월2-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "002",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수2-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "003",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수5-5"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "004",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "005",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "목5-5"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "006",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "월2-2"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "007",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "월3-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "008",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "화6-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20914",
+            "section": "009",
+            "name": "피아노전공실기(1)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화7-7"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21515",
+            "section": "001",
+            "name": "시창청음피아노(기초)",
+            "credits": "2",
+            "professor": "김기량",
+            "time": "목2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01563",
+            "section": "001",
+            "name": "피아노반주실습(1)",
+            "credits": "2",
+            "professor": "임진경",
+            "time": "월7-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19795",
+            "section": "001",
+            "name": "창의적예술교육실습",
+            "credits": "2",
+            "professor": "김명희",
+            "time": "월2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "001",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "월4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "002",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화2-2"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "003",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "004",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화8-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "005",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "목5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "006",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "한지현",
+            "time": "금4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "007",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "목2-2"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "008",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "목5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "009",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "화2-2"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "010",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화2-2"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "011",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "012",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화6-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "013",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "월5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "014",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "월6-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "015",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "월5-5"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "016",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "수4-4"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20918",
+            "section": "017",
+            "name": "피아노전공실기(3)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "목6-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20942",
+            "section": "001",
+            "name": "건반화성 및 기법",
+            "credits": "2",
+            "professor": "박상현",
+            "time": "수2-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01437",
+            "section": "001",
+            "name": "지휘법(1)",
+            "credits": "2",
+            "professor": "박진우",
+            "time": "목2-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01485",
+            "section": "001",
+            "name": "피아노앙상블(1)",
+            "credits": "2",
+            "professor": "강소연",
+            "time": "목5-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18515",
+            "section": "001",
+            "name": "바로크피아노음악",
+            "credits": "2",
+            "professor": "NAMHEEJUNG",
+            "time": "수5-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "001",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "월3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "002",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "003",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "강소연",
+            "time": "목4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "004",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "한지현",
+            "time": "금5-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "006",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "한지현",
+            "time": "금7-7"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "007",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "목4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "008",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "화3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "009",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화5-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "010",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "월4-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "011",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "수3-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20920",
+            "section": "012",
+            "name": "피아노전공실기(5)",
+            "credits": "1",
+            "professor": "김기량",
+            "time": "목4-4"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "001",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "월2-2"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "002",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "HWANGSOMYUNG",
+            "time": "월9-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "003",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화6-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "004",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "화7-7"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "005",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "수4-4"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "006",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "수5-5"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "007",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "강소연",
+            "time": "목2-2"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "008",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "강소연",
+            "time": "목3-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "009",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "목1-1"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "010",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "이주희",
+            "time": "목3-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "011",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "김정휘",
+            "time": "화3-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "012",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "김수련",
+            "time": "수7-7"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20922",
+            "section": "013",
+            "name": "피아노전공실기(7)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "월6-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20932",
+            "section": "001",
+            "name": "피아노세미나(1)",
+            "credits": "1",
+            "professor": "NAMHEEJUNG",
+            "time": "목4-4"
+        }
+    ]
+}

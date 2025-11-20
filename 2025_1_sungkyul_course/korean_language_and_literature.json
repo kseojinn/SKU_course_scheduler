@@ -1,0 +1,145 @@
+{
+    "major": "국어국문학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01958",
+            "section": "001",
+            "name": "문학의세계",
+            "credits": "3",
+            "professor": "조소명",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21521",
+            "section": "001",
+            "name": "한국어학개론",
+            "credits": "3",
+            "professor": "우순조",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01942",
+            "section": "001",
+            "name": "한국문학개론",
+            "credits": "3",
+            "professor": "이종석",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01946",
+            "section": "001",
+            "name": "현대소설의이해",
+            "credits": "3",
+            "professor": "구자연",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01959",
+            "section": "001",
+            "name": "영상문학론",
+            "credits": "3",
+            "professor": "구자연",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21522",
+            "section": "001",
+            "name": "한국어음운론",
+            "credits": "3",
+            "professor": "우순조",
+            "time": "목1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21530",
+            "section": "001",
+            "name": "한국어전산학기초",
+            "credits": "3",
+            "professor": "우순조",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01933",
+            "section": "001",
+            "name": "방송구성론",
+            "credits": "3",
+            "professor": "정낙현",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "07351",
+            "section": "001",
+            "name": "한국문학사",
+            "credits": "3",
+            "professor": "이종석",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "17825",
+            "section": "001",
+            "name": "문화산업과스토리텔링",
+            "credits": "3",
+            "professor": "조한서",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21538",
+            "section": "001",
+            "name": "한국어문법론",
+            "credits": "3",
+            "professor": "우순조",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01903",
+            "section": "001",
+            "name": "현대작가론",
+            "credits": "3",
+            "professor": "조소명",
+            "time": "목4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01929",
+            "section": "001",
+            "name": "출판편집론",
+            "credits": "3",
+            "professor": "진영희",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20845",
+            "section": "001",
+            "name": "문화콘텐츠개발과고전작가",
+            "credits": "3",
+            "professor": "조한서",
+            "time": "화7-9"
+        }
+    ]
+}

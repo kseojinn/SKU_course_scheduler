@@ -1,0 +1,115 @@
+{
+    "major": "경영학과(2부)",
+    "course": [
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01130",
+            "section": "002",
+            "name": "국제경영론",
+            "credits": "3",
+            "professor": "곽보선",
+            "time": "화13-15"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01133",
+            "section": "003",
+            "name": "마케팅론",
+            "credits": "3",
+            "professor": "김신애",
+            "time": "수10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07533",
+            "section": "002",
+            "name": "인적자원관리",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "목10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20639",
+            "section": "002",
+            "name": "품질운영론",
+            "credits": "3",
+            "professor": "이수진",
+            "time": "목10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "012",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "조군현",
+            "time": "월10-11"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01163",
+            "section": "002",
+            "name": "중급회계",
+            "credits": "3",
+            "professor": "김동영",
+            "time": "화10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01174",
+            "section": "002",
+            "name": "국제마케팅(원격수업)",
+            "credits": "3",
+            "professor": "이윤선",
+            "time": "월10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01193",
+            "section": "002",
+            "name": "소비자행동론",
+            "credits": "3",
+            "professor": "김미현",
+            "time": "목10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19221",
+            "section": "002",
+            "name": "선물시장옵션론",
+            "credits": "3",
+            "professor": "김선제",
+            "time": "수10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20446",
+            "section": "002",
+            "name": "무역실무론(원격수업)",
+            "credits": "3",
+            "professor": "정병규",
+            "time": "화10-12"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20617",
+            "section": "002",
+            "name": "마케팅리서치(원격수업)",
+            "credits": "3",
+            "professor": "곽보선",
+            "time": "화10-12"
+        }
+    ]
+}

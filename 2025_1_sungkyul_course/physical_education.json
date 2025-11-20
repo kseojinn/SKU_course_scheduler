@@ -1,0 +1,475 @@
+{
+    "major": "체육교육과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02507",
+            "section": "001",
+            "name": "맨손체조",
+            "credits": "2",
+            "professor": "박규리",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02507",
+            "section": "002",
+            "name": "맨손체조",
+            "credits": "2",
+            "professor": "박규리",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19884",
+            "section": "001",
+            "name": "체육사·철학",
+            "credits": "2",
+            "professor": "박현애",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19884",
+            "section": "002",
+            "name": "체육사·철학",
+            "credits": "2",
+            "professor": "박현애",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20330",
+            "section": "001",
+            "name": "스포츠영어(1)",
+            "credits": "3",
+            "professor": "CORCORANWILLIAMJOSEPH",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20330",
+            "section": "002",
+            "name": "스포츠영어(1)",
+            "credits": "3",
+            "professor": "CORCORANWILLIAMJOSEPH",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20739",
+            "section": "001",
+            "name": "체육교육진로",
+            "credits": "2",
+            "professor": "허철무",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21462",
+            "section": "001",
+            "name": "운동실기",
+            "credits": "3",
+            "professor": "안상현",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21462",
+            "section": "002",
+            "name": "운동실기",
+            "credits": "3",
+            "professor": "안상현",
+            "time": "금7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "02565",
+            "section": "001",
+            "name": "운동역학",
+            "credits": "3",
+            "professor": "한수지",
+            "time": "목1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "02565",
+            "section": "002",
+            "name": "운동역학",
+            "credits": "3",
+            "professor": "한수지",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18139",
+            "section": "001",
+            "name": "운동학습및심리",
+            "credits": "3",
+            "professor": "김상태",
+            "time": "금1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18139",
+            "section": "002",
+            "name": "운동학습및심리",
+            "credits": "3",
+            "professor": "김상태",
+            "time": "금4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19632",
+            "section": "001",
+            "name": "육상경기(트랙)",
+            "credits": "2",
+            "professor": "여호수아",
+            "time": "목8-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19633",
+            "section": "001",
+            "name": "야외실습및안전지도(집중수업,학교밖수업)",
+            "credits": "1",
+            "professor": "최덕묵",
+            "time": "수5-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19635",
+            "section": "001",
+            "name": "기계체조(마루)",
+            "credits": "2",
+            "professor": "안완식",
+            "time": "월7-8"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19687",
+            "section": "001",
+            "name": "유소년체육론",
+            "credits": "2",
+            "professor": "김은혜",
+            "time": "월5-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20767",
+            "section": "001",
+            "name": "수영지도법 기초",
+            "credits": "1",
+            "professor": "최현수",
+            "time": "월2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20769",
+            "section": "001",
+            "name": "축구지도법 기초",
+            "credits": "1",
+            "professor": "이호열",
+            "time": "목2-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21094",
+            "section": "001",
+            "name": "체육교육론",
+            "credits": "3",
+            "professor": "홍석호",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21094",
+            "section": "002",
+            "name": "체육교육론",
+            "credits": "3",
+            "professor": "홍석호",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "02566",
+            "section": "001",
+            "name": "트레이닝방법론",
+            "credits": "3",
+            "professor": "안상현",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "02566",
+            "section": "002",
+            "name": "트레이닝방법론",
+            "credits": "3",
+            "professor": "안상현",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "02567",
+            "section": "001",
+            "name": "수상스포츠(집중수업,학교밖수업)",
+            "credits": "1",
+            "professor": "허철무",
+            "time": "목7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18222",
+            "section": "001",
+            "name": "체육교과교재연구및지도법",
+            "credits": "3",
+            "professor": "홍석호",
+            "time": "금1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18222",
+            "section": "002",
+            "name": "체육교과교재연구및지도법",
+            "credits": "3",
+            "professor": "홍석호",
+            "time": "금4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19637",
+            "section": "001",
+            "name": "체조종합교수법",
+            "credits": "2",
+            "professor": "안완식",
+            "time": "수7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20771",
+            "section": "001",
+            "name": "배구지도법 기초",
+            "credits": "1",
+            "professor": "최덕묵",
+            "time": "화7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20773",
+            "section": "001",
+            "name": "핸드볼지도법 기초",
+            "credits": "1",
+            "professor": "이동희",
+            "time": "수1-2"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20773",
+            "section": "002",
+            "name": "핸드볼지도법 기초",
+            "credits": "1",
+            "professor": "이동희",
+            "time": "수3-4"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20775",
+            "section": "001",
+            "name": "배드민턴지도법 기초",
+            "credits": "1",
+            "professor": "이호열",
+            "time": "목4-5"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20778",
+            "section": "001",
+            "name": "탁구지도법 심화",
+            "credits": "2",
+            "professor": "김상태",
+            "time": "화2-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20779",
+            "section": "001",
+            "name": "농구지도법 기초",
+            "credits": "1",
+            "professor": "김상태",
+            "time": "수5-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "02505",
+            "section": "001",
+            "name": "스포츠사회학",
+            "credits": "3",
+            "professor": "이한숙",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "02505",
+            "section": "002",
+            "name": "스포츠사회학",
+            "credits": "3",
+            "professor": "이한숙",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "02512",
+            "section": "001",
+            "name": "골프(1)",
+            "credits": "1",
+            "professor": "민성희",
+            "time": "수7-8"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "02589",
+            "section": "001",
+            "name": "종합실기(2)",
+            "credits": "1",
+            "professor": "여호수아",
+            "time": "목6-7"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18142",
+            "section": "001",
+            "name": "체육논리및논술",
+            "credits": "2",
+            "professor": "김철민",
+            "time": "월5-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18142",
+            "section": "002",
+            "name": "체육논리및논술",
+            "credits": "2",
+            "professor": "김철민",
+            "time": "월7-8"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18142",
+            "section": "003",
+            "name": "체육논리및논술",
+            "credits": "2",
+            "professor": "김철민",
+            "time": "월9-10"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "18237",
+            "section": "001",
+            "name": "체육교육연구법",
+            "credits": "2",
+            "professor": "김은혜",
+            "time": "월3-4"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20741",
+            "section": "001",
+            "name": "뉴스포츠",
+            "credits": "2",
+            "professor": "김은혜",
+            "time": "월1-2"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21095",
+            "section": "001",
+            "name": "특수체육",
+            "credits": "2",
+            "professor": "박규남",
+            "time": "금2-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21095",
+            "section": "002",
+            "name": "특수체육",
+            "credits": "2",
+            "professor": "박규남",
+            "time": "금4-5"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21096",
+            "section": "001",
+            "name": "응급처치와 심폐소생술",
+            "credits": "2",
+            "professor": "허철무",
+            "time": "화2-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21096",
+            "section": "002",
+            "name": "응급처치와 심폐소생술",
+            "credits": "2",
+            "professor": "허철무",
+            "time": "화4-5"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "22009",
+            "section": "001",
+            "name": "레저스포츠와자연환경보호(학생제안과목)",
+            "credits": "2",
+            "professor": "민성희",
+            "time": "수5-6"
+        }
+    ]
+}

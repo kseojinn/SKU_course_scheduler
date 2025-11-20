@@ -1,0 +1,245 @@
+{
+    "major": "영어영문학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01050",
+            "section": "001",
+            "name": "영어회화(1)",
+            "credits": "3",
+            "professor": "CHELLEWARIKGABE",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01050",
+            "section": "002",
+            "name": "영어회화(1)",
+            "credits": "3",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01050",
+            "section": "003",
+            "name": "영어회화(1)",
+            "credits": "3",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "01050",
+            "section": "004",
+            "name": "영어회화(1)",
+            "credits": "3",
+            "professor": "PFOERTNEREVAMARIAMAXINE",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20909",
+            "section": "001",
+            "name": "영문학읽기와 글쓰기",
+            "credits": "3",
+            "professor": "김희선",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01047",
+            "section": "001",
+            "name": "영어글쓰기(1)",
+            "credits": "3",
+            "professor": "PFOERTNEREVAMARIAMAXINE",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01047",
+            "section": "003",
+            "name": "영어글쓰기(1)",
+            "credits": "3",
+            "professor": "표시연",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01093",
+            "section": "001",
+            "name": "영어문법의이해",
+            "credits": "3",
+            "professor": "이정아",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07394",
+            "section": "001",
+            "name": "영국문학개론",
+            "credits": "3",
+            "professor": "김희선",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07505",
+            "section": "001",
+            "name": "영어발음의원리와연습",
+            "credits": "3",
+            "professor": "권미숙",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20987",
+            "section": "001",
+            "name": "진로와취창업",
+            "credits": "2",
+            "professor": "최영숙",
+            "time": "화7-8"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01010",
+            "section": "001",
+            "name": "영국시",
+            "credits": "3",
+            "professor": "김희선",
+            "time": "목1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01041",
+            "section": "001",
+            "name": "영국소설",
+            "credits": "3",
+            "professor": "황양미",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01100",
+            "section": "001",
+            "name": "영어스피치",
+            "credits": "3",
+            "professor": "PFOERTNEREVAMARIAMAXINE",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01100",
+            "section": "003",
+            "name": "영어스피치",
+            "credits": "3",
+            "professor": "PFOERTNEREVAMARIAMAXINE",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "07428",
+            "section": "001",
+            "name": "영미문화의이해",
+            "credits": "3",
+            "professor": "PFOERTNEREVAMARIAMAXINE",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21115",
+            "section": "001",
+            "name": "영미문학과 영상",
+            "credits": "3",
+            "professor": "손현",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01025",
+            "section": "001",
+            "name": "영미희곡",
+            "credits": "3",
+            "professor": "JOELSHARONANN",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "06088",
+            "section": "001",
+            "name": "번역의이론및실제",
+            "credits": "3",
+            "professor": "표시연",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19811",
+            "section": "001",
+            "name": "공인영어테스트분석",
+            "credits": "3",
+            "professor": "이정아",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01093",
+            "section": "002",
+            "name": "영어문법의이해(원격수업)",
+            "credits": "3",
+            "professor": "이정아",
+            "time": "월10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07394",
+            "section": "002",
+            "name": "영국문학개론(원격수업)",
+            "credits": "3",
+            "professor": "김희선",
+            "time": "화10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07505",
+            "section": "002",
+            "name": "영어발음의원리와연습",
+            "credits": "3",
+            "professor": "권미숙",
+            "time": "목10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01041",
+            "section": "002",
+            "name": "영국소설",
+            "credits": "3",
+            "professor": "황양미",
+            "time": "수10-12"
+        }
+    ]
+}

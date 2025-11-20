@@ -1,0 +1,335 @@
+{
+    "major": "미디어소프트웨어학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18330",
+            "section": "001",
+            "name": "디지털스토리텔링",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18330",
+            "section": "002",
+            "name": "디지털스토리텔링",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18409",
+            "section": "002",
+            "name": "대학수학",
+            "credits": "3",
+            "professor": "박경숙",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18409",
+            "section": "003",
+            "name": "대학수학",
+            "credits": "3",
+            "professor": "박경숙",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19814",
+            "section": "001",
+            "name": "멀티미디어소프트웨어개론",
+            "credits": "3",
+            "professor": "정유원",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "19814",
+            "section": "002",
+            "name": "멀티미디어소프트웨어개론",
+            "credits": "3",
+            "professor": "정유원",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20404",
+            "section": "002",
+            "name": "C프로그래밍",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20404",
+            "section": "003",
+            "name": "C프로그래밍",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20404",
+            "section": "005",
+            "name": "C프로그래밍",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "월1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "18333",
+            "section": "001",
+            "name": "게임수학",
+            "credits": "3",
+            "professor": "박성준",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "18333",
+            "section": "002",
+            "name": "게임수학",
+            "credits": "3",
+            "professor": "박성준",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "19817",
+            "section": "001",
+            "name": "자바웹프로그래밍(1)",
+            "credits": "3",
+            "professor": "최도현",
+            "time": "수1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "19817",
+            "section": "002",
+            "name": "자바웹프로그래밍(1)",
+            "credits": "3",
+            "professor": "최도현",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "20471",
+            "section": "001",
+            "name": "자료구조및알고리즘",
+            "credits": "3",
+            "professor": "진성아",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "20471",
+            "section": "002",
+            "name": "자료구조및알고리즘",
+            "credits": "3",
+            "professor": "최호웅",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01744",
+            "section": "001",
+            "name": "디지털디자인",
+            "credits": "3",
+            "professor": "허원회",
+            "time": "목1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01744",
+            "section": "002",
+            "name": "디지털디자인",
+            "credits": "3",
+            "professor": "허원회",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20936",
+            "section": "001",
+            "name": "머신러닝 기초",
+            "credits": "3",
+            "professor": "최호웅",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20936",
+            "section": "002",
+            "name": "머신러닝 기초",
+            "credits": "3",
+            "professor": "최호웅",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "17874",
+            "section": "001",
+            "name": "컴퓨터그래픽스(1)",
+            "credits": "3",
+            "professor": "진성아",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "17874",
+            "section": "002",
+            "name": "컴퓨터그래픽스(1)",
+            "credits": "3",
+            "professor": "진성아",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "20937",
+            "section": "001",
+            "name": "게임엔진(1)",
+            "credits": "3",
+            "professor": "박성준",
+            "time": "목1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전필",
+            "id": "20937",
+            "section": "002",
+            "name": "게임엔진(1)",
+            "credits": "3",
+            "professor": "박성준",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "17963",
+            "section": "001",
+            "name": "3D모델링",
+            "credits": "3",
+            "professor": "허원회",
+            "time": "화1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "17963",
+            "section": "002",
+            "name": "3D모델링",
+            "credits": "3",
+            "professor": "허원회",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20556",
+            "section": "001",
+            "name": "서버프로그래밍",
+            "credits": "3",
+            "professor": "박중오",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20939",
+            "section": "001",
+            "name": "앱프로그래밍(2)",
+            "credits": "3",
+            "professor": "박혜진",
+            "time": "월4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20939",
+            "section": "002",
+            "name": "앱프로그래밍(2)",
+            "credits": "3",
+            "professor": "박혜진",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19820",
+            "section": "001",
+            "name": "미디어소프트웨어종합설계(2)",
+            "credits": "3",
+            "professor": "김정이",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19820",
+            "section": "002",
+            "name": "미디어소프트웨어종합설계(2)",
+            "credits": "3",
+            "professor": "허원회",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19820",
+            "section": "003",
+            "name": "미디어소프트웨어종합설계(2)",
+            "credits": "3",
+            "professor": "박성준",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01308",
+            "section": "002",
+            "name": "운영체제",
+            "credits": "3",
+            "professor": "최도현",
+            "time": "금1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20907",
+            "section": "001",
+            "name": "가상현실/증강현실콘텐츠제작",
+            "credits": "3",
+            "professor": "정유원",
+            "time": "수1-3"
+        }
+    ]
+}

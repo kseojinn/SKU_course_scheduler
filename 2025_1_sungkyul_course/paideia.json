@@ -1,0 +1,3555 @@
+{
+    "major": "파이데이아학부",
+    "course": [
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "001",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "월7-7"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "002",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "월8-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "003",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "월9-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "004",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "목7-7"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "005",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "목8-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "006",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "송진영",
+            "time": "목10-10"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "007",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "구성모",
+            "time": "화3-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "008",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "구성모",
+            "time": "화4-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "009",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "구성모",
+            "time": "화5-5"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "010",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "최보라",
+            "time": "수7-7"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "011",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "최보라",
+            "time": "수8-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "00074",
+            "section": "012",
+            "name": "사회봉사",
+            "credits": "1",
+            "professor": "최보라",
+            "time": "수9-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "001",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권도경",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "002",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권도경",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "003",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권도경",
+            "time": "수10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "004",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "김학중",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "005",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "김학중",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "006",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "김학중",
+            "time": "월10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "007",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "강정구",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "008",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "강정구",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "009",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "강정구",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "010",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "강정구",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "011",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "이우현",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "012",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "이우현",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "013",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "이우현",
+            "time": "화10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "014",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "조혜진",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "015",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "조혜진",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "016",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "조혜진",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "017",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "방인석",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "018",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "방인석",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "019",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "방인석",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "020",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "표시연",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "021",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "표시연",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "022",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "표시연",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "023",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권현숙",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "024",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권현숙",
+            "time": "금7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "19737",
+            "section": "025",
+            "name": "기초글쓰기",
+            "credits": "2",
+            "professor": "권현숙",
+            "time": "금10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20163",
+            "section": "001",
+            "name": "대학생활과진로(원격수업)",
+            "credits": "1",
+            "professor": "김용규",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "001",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHANGINSOOK",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "002",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHANGINSOOK",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "003",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHANGINSOOK",
+            "time": "화10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "004",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHANGINSOOK",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "005",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHANGINSOOK",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "006",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "007",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "008",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "009",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "수10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "010",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "011",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "CHELLEWARIKGABE",
+            "time": "월10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "012",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "CHELLEWARIKGABE",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "013",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "CHELLEWARIKGABE",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "014",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "CHELLEWARIKGABE",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "015",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "CHELLEWARIKGABE",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "016",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "CORCORANWILLIAMJOSEPH",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "017",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "018",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "019",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "020",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "021",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLDSMITHTIMOTHYNICHOLAS",
+            "time": "목10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "022",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "월10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "023",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "GOLEMBDANIELROGER",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "024",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HERNANDEZROBERTO",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "025",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HERNANDEZROBERTO",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "026",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "HERNANDEZROBERTO",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "027",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "HERNANDEZROBERTO",
+            "time": "금1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "028",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "HERNANDEZROBERTO",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "029",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "030",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "031",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "032",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "033",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "HWANGSOMYUNG",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "034",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "HWANGSOMYUNG",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "035",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "JOELSHARONANN",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "038",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "JOELSHARONANN",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "039",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "KIMJAMESCHAEPIL",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "040",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "KIMJAMESCHAEPIL",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "041",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "KYEBONGWON",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "042",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "KYEBONGWON",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "043",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "KYEBONGWON",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "044",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "045",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "046",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "047",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "금1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "048",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LASHLEYKEITHANDRE",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "049",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "화10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "050",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "051",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "052",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "053",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "054",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "055",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "056",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "057",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "058",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "MILLERKEVINAARON",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "059",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "MILLERKEVINAARON",
+            "time": "월1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "060",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "MILLERKEVINAARON",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "061",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "MILLERKEVINAARON",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "062",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "MILLERKEVINAARON",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "063",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "PETERSENBRIANT",
+            "time": "월10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "064",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "PETERSENBRIANT",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "065",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "PETERSENBRIANT",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "066",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "PETERSENBRIANT",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "067",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWERNIGELJAMES",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "068",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "POWERNIGELJAMES",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "069",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWERNIGELJAMES",
+            "time": "화7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "070",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWERNIGELJAMES",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "071",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "POWERNIGELJAMES",
+            "time": "목10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "072",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWLESSANNEMARIE",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "073",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWLESSANNEMARIE",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "074",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWLESSANNEMARIE",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "075",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "POWLESSANNEMARIE",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "076",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "수1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "077",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "078",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "079",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "금1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "080",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "081",
+            "name": "영어커뮤니케이션(1)(고급[토익500점이상])",
+            "credits": "2",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "082",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "083",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "084",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "085",
+            "name": "영어커뮤니케이션(1)(외국인유학생전용)",
+            "credits": "2",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "금7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "086",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "087",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "088",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "089",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "090",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "수10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "091",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "092",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUHKYONGEUNKRISTY",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "093",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUNPETERILWOONG",
+            "time": "수3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "094",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUNPETERILWOONG",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "095",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUNPETERILWOONG",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "096",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "YUNPETERILWOONG",
+            "time": "금7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "097",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "화5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "098",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "월1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "099",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "100",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "101",
+            "name": "영어커뮤니케이션(1)(중급[토익350점이상500점이하])",
+            "credits": "2",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "102",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "이은주",
+            "time": "월1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "103",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "이은주",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "104",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "이은주",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "105",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "이은주",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20164",
+            "section": "106",
+            "name": "영어커뮤니케이션(1)(초급[토익350점이하])",
+            "credits": "2",
+            "professor": "이은주",
+            "time": "화3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "001",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "김보경",
+            "time": "월1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "002",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "김보경",
+            "time": "월3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "003",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "김보경",
+            "time": "월5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "004",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "박중오",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "005",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "이수미",
+            "time": "화1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "006",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "안두헌",
+            "time": "월1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "007",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "안두헌",
+            "time": "월7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "009",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "서대성",
+            "time": "수5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "010",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "서병민",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "011",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "서병민",
+            "time": "수10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "012",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "임순빈",
+            "time": "목1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "013",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "임순빈",
+            "time": "목3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "014",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "임순빈",
+            "time": "목5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "015",
+            "name": "컴퓨팅사고와 코딩기초(외국인유학생전용)",
+            "credits": "2",
+            "professor": "윤정희",
+            "time": "금1-2"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "016",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "윤정희",
+            "time": "금3-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "20956",
+            "section": "017",
+            "name": "컴퓨팅사고와 코딩기초",
+            "credits": "2",
+            "professor": "윤정희",
+            "time": "금5-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "001",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "안오식",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "002",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "전상준",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "003",
+            "name": "기독교로의초대(신학과)",
+            "credits": "3",
+            "professor": "강정규",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "004",
+            "name": "기독교로의초대(기독교교육상담학과)",
+            "credits": "3",
+            "professor": "김성목",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "005",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이상록",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "006",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이주용",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "007",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "김원태",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "009",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "주은평",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "010",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "주은평",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "011",
+            "name": "기독교로의초대(원격수업)",
+            "credits": "3",
+            "professor": "전요섭",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "012",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "전요섭",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "013",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이승용",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "014",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "김찬규",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "015",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "박현정",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "016",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "정혜진",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "017",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "황성환",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "018",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "강안일",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "019",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "김영배",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "020",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "송영만",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "021",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이재섭",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "022",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "강희수",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "023",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이찬호",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "024",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "유병철",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "025",
+            "name": "기독교로의초대",
+            "credits": "3",
+            "professor": "이강춘",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21651",
+            "section": "026",
+            "name": "기독교로의초대(외국인유학생전용)",
+            "credits": "3",
+            "professor": "박정식",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21923",
+            "section": "001",
+            "name": "전공탐색입문(전체)(자율전공학부)",
+            "credits": "1",
+            "professor": "조성범",
+            "time": "수4-4"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21923",
+            "section": "002",
+            "name": "전공탐색입문(전체)(자율전공학부)",
+            "credits": "1",
+            "professor": "김샛별",
+            "time": "수5-5"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21923",
+            "section": "003",
+            "name": "전공탐색입문(전체)(자율전공학부)",
+            "credits": "1",
+            "professor": "김샛별",
+            "time": "수6-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21925",
+            "section": "001",
+            "name": "전공탐색입문(신학대학)(자율전공학부)",
+            "credits": "1",
+            "professor": "오현철",
+            "time": "수3-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21926",
+            "section": "001",
+            "name": "전공탐색입문(인문대학)(자율전공학부)",
+            "credits": "1",
+            "professor": "빈미정",
+            "time": "월3-3"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21927",
+            "section": "001",
+            "name": "전공탐색입문(사회과학대학)(자율전공학부)",
+            "credits": "1",
+            "professor": "박윤영",
+            "time": "월6-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21928",
+            "section": "001",
+            "name": "전공탐색입문(글로벌경영기술대학)(자율전공학부)",
+            "credits": "1",
+            "professor": "정태원",
+            "time": "화6-6"
+        },
+        {
+            "grade": "1",
+            "type": "교필",
+            "id": "21929",
+            "section": "001",
+            "name": "전공탐색입문(IT공과대학)(자율전공학부)",
+            "credits": "1",
+            "professor": "윤기호",
+            "time": "월9-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00046",
+            "section": "001",
+            "name": "채플(일반대학2-4학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "수2-2"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00046",
+            "section": "002",
+            "name": "채플(일반대학2-4학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "수6-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00046",
+            "section": "003",
+            "name": "채플(일반대학2-4학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "목2-2"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00046",
+            "section": "004",
+            "name": "채플(신학대학2-4학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "목7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00099",
+            "section": "001",
+            "name": "현대시사영어",
+            "credits": "3",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00099",
+            "section": "002",
+            "name": "현대시사영어",
+            "credits": "3",
+            "professor": "OREILLYHAYESRORYPHILIP",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00178",
+            "section": "001",
+            "name": "서양철학의이해",
+            "credits": "3",
+            "professor": "황은영",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00181",
+            "section": "001",
+            "name": "법과생활",
+            "credits": "3",
+            "professor": "김재희",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00181",
+            "section": "002",
+            "name": "법과생활(원격수업)",
+            "credits": "3",
+            "professor": "김재희",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00220",
+            "section": "001",
+            "name": "국제정치의이해",
+            "credits": "3",
+            "professor": "임종화",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00220",
+            "section": "002",
+            "name": "국제정치의이해",
+            "credits": "3",
+            "professor": "임종화",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00221",
+            "section": "001",
+            "name": "테니스",
+            "credits": "3",
+            "professor": "최덕묵",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00221",
+            "section": "002",
+            "name": "테니스",
+            "credits": "3",
+            "professor": "박규남",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00278",
+            "section": "001",
+            "name": "영어뉴스청취",
+            "credits": "3",
+            "professor": "KIMJAMESCHAEPIL",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "00278",
+            "section": "003",
+            "name": "영어뉴스청취",
+            "credits": "3",
+            "professor": "KIMJAMESCHAEPIL",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "02567",
+            "section": "002",
+            "name": "수상스포츠(집중수업,학교밖수업)",
+            "credits": "3",
+            "professor": "허철무",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "02567",
+            "section": "003",
+            "name": "수상스포츠(집중수업,학교밖수업)",
+            "credits": "3",
+            "professor": "안완식",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "02570",
+            "section": "001",
+            "name": "탁구",
+            "credits": "3",
+            "professor": "김상태",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "02570",
+            "section": "002",
+            "name": "탁구",
+            "credits": "3",
+            "professor": "김상태",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07000",
+            "section": "001",
+            "name": "채플(제자반)(일반대학1학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "수3-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07000",
+            "section": "002",
+            "name": "채플(제자반)(자율전공학부1학년,일반대)",
+            "credits": "0",
+            "professor": "",
+            "time": "수2-2"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07000",
+            "section": "003",
+            "name": "채플(제자반)(신학대학1학년)",
+            "credits": "0",
+            "professor": "",
+            "time": "목7-7"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07000",
+            "section": "005",
+            "name": "채플(제자반)(자율전공학부1학년,신학대)",
+            "credits": "0",
+            "professor": "",
+            "time": "수2-2"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07593",
+            "section": "001",
+            "name": "북한의이해",
+            "credits": "3",
+            "professor": "김민곤",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07755",
+            "section": "001",
+            "name": "대학물리학(1)(정보통신공학과)",
+            "credits": "3",
+            "professor": "이재철",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "07755",
+            "section": "002",
+            "name": "대학물리학(1)(정보통신공학과)",
+            "credits": "3",
+            "professor": "이재철",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18278",
+            "section": "001",
+            "name": "실용영어문법(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18278",
+            "section": "002",
+            "name": "실용영어문법(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "HEWSONKARENSYLVANA",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18278",
+            "section": "003",
+            "name": "실용영어문법(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "PETERSENBRIANT",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18278",
+            "section": "004",
+            "name": "실용영어문법(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "PETERSENBRIANT",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18312",
+            "section": "001",
+            "name": "드라마영어",
+            "credits": "3",
+            "professor": "JOELSHARONANN",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18312",
+            "section": "002",
+            "name": "드라마영어",
+            "credits": "3",
+            "professor": "JOELSHARONANN",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "001",
+            "name": "교양영어회화(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "CHANGINSOOK",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "002",
+            "name": "교양영어회화(고급[토익500점이상])",
+            "credits": "3",
+            "professor": "CHAPMANKEVINWAYNE",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "005",
+            "name": "교양영어회화(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "HERNANDEZROBERTO",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "007",
+            "name": "교양영어회화(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "LEVEILLEBEAURICHARD",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "008",
+            "name": "교양영어회화(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "MILLERKEVINAARON",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "009",
+            "name": "교양영어회화(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "POWERNIGELJAMES",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "010",
+            "name": "교양영어회화(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "ROBERTSMICHAELPATRICK",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "011",
+            "name": "교양영어회화(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "TAYLORDAVIDWILSON",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "012",
+            "name": "교양영어회화(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "WATSONROBERTMATTHEWJAMES",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18337",
+            "section": "013",
+            "name": "교양영어회화(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "ZUNGUNKANYISOSIBONGISENI",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18409",
+            "section": "001",
+            "name": "대학수학(정보통신공학과)",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "18409",
+            "section": "004",
+            "name": "대학수학(정보통신공학과)",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19554",
+            "section": "001",
+            "name": "한국어읽기와문법(1)(외국인유학생전용)",
+            "credits": "3",
+            "professor": "이은주",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19689",
+            "section": "001",
+            "name": "심폐소생술및구급법",
+            "credits": "3",
+            "professor": "양성지",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19689",
+            "section": "002",
+            "name": "심폐소생술및구급법",
+            "credits": "3",
+            "professor": "양성지",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19746",
+            "section": "001",
+            "name": "ERP전산회계",
+            "credits": "3",
+            "professor": "서병민",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19746",
+            "section": "002",
+            "name": "ERP전산회계",
+            "credits": "3",
+            "professor": "서병민",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19754",
+            "section": "001",
+            "name": "문화콘텐츠행사기획",
+            "credits": "3",
+            "professor": "전윤경",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19757",
+            "section": "001",
+            "name": "생활중국어",
+            "credits": "3",
+            "professor": "김지영",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19757",
+            "section": "002",
+            "name": "생활중국어",
+            "credits": "3",
+            "professor": "김의정",
+            "time": "금7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19837",
+            "section": "001",
+            "name": "컴퓨터활용및정보처리",
+            "credits": "3",
+            "professor": "박중오",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19837",
+            "section": "002",
+            "name": "컴퓨터활용및정보처리",
+            "credits": "3",
+            "professor": "박중오",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19837",
+            "section": "003",
+            "name": "컴퓨터활용및정보처리",
+            "credits": "3",
+            "professor": "박중오",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19846",
+            "section": "001",
+            "name": "자원관리능력",
+            "credits": "3",
+            "professor": "김정희",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "19846",
+            "section": "002",
+            "name": "자원관리능력",
+            "credits": "3",
+            "professor": "김정희",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20166",
+            "section": "001",
+            "name": "문학으로 만나는 기독교",
+            "credits": "3",
+            "professor": "이병욱",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20166",
+            "section": "003",
+            "name": "문학으로 만나는 기독교",
+            "credits": "3",
+            "professor": "민장배",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20167",
+            "section": "001",
+            "name": "음악으로 만나는 기독교",
+            "credits": "3",
+            "professor": "장유미",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20167",
+            "section": "004",
+            "name": "음악으로 만나는 기독교",
+            "credits": "3",
+            "professor": "채진수",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20169",
+            "section": "001",
+            "name": "인물로만나는기독교",
+            "credits": "3",
+            "professor": "김원태",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20171",
+            "section": "001",
+            "name": "건강한자아 찾기",
+            "credits": "3",
+            "professor": "민이슬",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20171",
+            "section": "002",
+            "name": "건강한자아 찾기",
+            "credits": "3",
+            "professor": "민이슬",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20172",
+            "section": "001",
+            "name": "사랑의기술:데이트 심리학",
+            "credits": "3",
+            "professor": "박미라",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20172",
+            "section": "002",
+            "name": "사랑의기술:데이트 심리학",
+            "credits": "3",
+            "professor": "최윤정",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20172",
+            "section": "003",
+            "name": "사랑의기술:데이트 심리학",
+            "credits": "3",
+            "professor": "최윤정",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20175",
+            "section": "001",
+            "name": "과학과종교의대화",
+            "credits": "3",
+            "professor": "김찬규",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20177",
+            "section": "001",
+            "name": "기독교역사의현장을 찾아서",
+            "credits": "3",
+            "professor": "배본철",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20179",
+            "section": "002",
+            "name": "영어기초글쓰기(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20179",
+            "section": "003",
+            "name": "영어기초글쓰기(중급[토익350점이상500점이하])",
+            "credits": "3",
+            "professor": "MCGRATHJAMESGERARD",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20179",
+            "section": "004",
+            "name": "영어기초글쓰기(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "POWLESSANNEMARIE",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20179",
+            "section": "005",
+            "name": "영어기초글쓰기(초급[토익350점이하])",
+            "credits": "3",
+            "professor": "POWLESSANNEMARIE",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20182",
+            "section": "001",
+            "name": "창의적사고와글쓰기",
+            "credits": "3",
+            "professor": "박수진",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20182",
+            "section": "002",
+            "name": "창의적사고와글쓰기",
+            "credits": "3",
+            "professor": "박수진",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20184",
+            "section": "001",
+            "name": "생활한자",
+            "credits": "3",
+            "professor": "진영희",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20184",
+            "section": "002",
+            "name": "생활한자",
+            "credits": "3",
+            "professor": "류해춘",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20190",
+            "section": "001",
+            "name": "문학과삶",
+            "credits": "3",
+            "professor": "이경욱",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20200",
+            "section": "001",
+            "name": "젠더(Gender)사회학",
+            "credits": "3",
+            "professor": "강희수",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20206",
+            "section": "001",
+            "name": "클래식음악 감상",
+            "credits": "3",
+            "professor": "고정화",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20206",
+            "section": "002",
+            "name": "클래식음악 감상",
+            "credits": "3",
+            "professor": "고정화",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20206",
+            "section": "003",
+            "name": "클래식음악 감상",
+            "credits": "3",
+            "professor": "고정화",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20208",
+            "section": "001",
+            "name": "조형미술과 자연",
+            "credits": "3",
+            "professor": "이미림",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20209",
+            "section": "001",
+            "name": "영화와영상예술",
+            "credits": "3",
+            "professor": "김찬희",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20210",
+            "section": "001",
+            "name": "동양미술의 이해",
+            "credits": "3",
+            "professor": "이미림",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20210",
+            "section": "002",
+            "name": "동양미술의 이해",
+            "credits": "3",
+            "professor": "이미림",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20224",
+            "section": "001",
+            "name": "웹및 앱을위한 콘텐츠 제작기술",
+            "credits": "3",
+            "professor": "정명범",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20232",
+            "section": "001",
+            "name": "환경과기후변화의이해",
+            "credits": "3",
+            "professor": "주시후",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20232",
+            "section": "002",
+            "name": "환경과기후변화의이해(원격병행수업)",
+            "credits": "3",
+            "professor": "주시후",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20232",
+            "section": "003",
+            "name": "환경과기후변화의이해",
+            "credits": "3",
+            "professor": "주시후",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20234",
+            "section": "001",
+            "name": "지역기반공유경제론",
+            "credits": "3",
+            "professor": "서대성",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20234",
+            "section": "002",
+            "name": "지역기반공유경제론",
+            "credits": "3",
+            "professor": "서대성",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20236",
+            "section": "001",
+            "name": "인간과반려동물",
+            "credits": "3",
+            "professor": "이시종",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20236",
+            "section": "002",
+            "name": "인간과반려동물",
+            "credits": "3",
+            "professor": "이시종",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20237",
+            "section": "001",
+            "name": "취업 성공 전략과 사회진출",
+            "credits": "2",
+            "professor": "김진",
+            "time": "수7-8"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20237",
+            "section": "002",
+            "name": "취업 성공 전략과 사회진출",
+            "credits": "2",
+            "professor": "김진",
+            "time": "수10-11"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20241",
+            "section": "001",
+            "name": "(손에 잡히는)청년창업과 기업가 정신",
+            "credits": "3",
+            "professor": "김창수",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20241",
+            "section": "002",
+            "name": "(손에 잡히는)청년창업과 기업가 정신",
+            "credits": "3",
+            "professor": "김창수",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20241",
+            "section": "003",
+            "name": "(손에 잡히는)청년창업과 기업가 정신",
+            "credits": "3",
+            "professor": "김창수",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20243",
+            "section": "001",
+            "name": "영상세계와 문화 트랜드",
+            "credits": "3",
+            "professor": "전윤경",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20243",
+            "section": "002",
+            "name": "영상세계와 문화 트랜드",
+            "credits": "3",
+            "professor": "전윤경",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20245",
+            "section": "001",
+            "name": "문화콘텐츠산업과창의성",
+            "credits": "3",
+            "professor": "방미향",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20245",
+            "section": "004",
+            "name": "문화콘텐츠산업과창의성",
+            "credits": "3",
+            "professor": "전윤경",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20249",
+            "section": "001",
+            "name": "철학과문화콘텐츠",
+            "credits": "3",
+            "professor": "신경수",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20249",
+            "section": "002",
+            "name": "철학과문화콘텐츠",
+            "credits": "3",
+            "professor": "신경수",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20253",
+            "section": "001",
+            "name": "소셜 빅데이터분석의 이해",
+            "credits": "3",
+            "professor": "전진오",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20261",
+            "section": "001",
+            "name": "예술과창의적사고",
+            "credits": "3",
+            "professor": "이신영",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20261",
+            "section": "002",
+            "name": "예술과창의적사고",
+            "credits": "3",
+            "professor": "이미림",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20261",
+            "section": "003",
+            "name": "예술과창의적사고",
+            "credits": "3",
+            "professor": "박윤경",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20263",
+            "section": "001",
+            "name": "기독교문화와창의적 스토리텔링",
+            "credits": "3",
+            "professor": "이종길",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20350",
+            "section": "001",
+            "name": "토익특강(LC)",
+            "credits": "3",
+            "professor": "YUNPETERILWOONG",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20350",
+            "section": "002",
+            "name": "토익특강(LC)",
+            "credits": "3",
+            "professor": "YUNPETERILWOONG",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20351",
+            "section": "001",
+            "name": "토익특강(RC)",
+            "credits": "3",
+            "professor": "CORCORANWILLIAMJOSEPH",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20351",
+            "section": "002",
+            "name": "토익특강(RC)",
+            "credits": "3",
+            "professor": "CORCORANWILLIAMJOSEPH",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20356",
+            "section": "001",
+            "name": "머신러닝(정보통신공학과)",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20356",
+            "section": "004",
+            "name": "머신러닝(정보통신공학과)",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20608",
+            "section": "001",
+            "name": "해외취업일본어(초급)",
+            "credits": "3",
+            "professor": "김혜연",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20608",
+            "section": "002",
+            "name": "해외취업일본어(초급)",
+            "credits": "3",
+            "professor": "김혜연",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20781",
+            "section": "001",
+            "name": "인공지능의 이해",
+            "credits": "3",
+            "professor": "김정희",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20797",
+            "section": "001",
+            "name": "사랑의인문학(KCU온라인강좌)",
+            "credits": "3",
+            "professor": "",
+            "time": ""
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20855",
+            "section": "001",
+            "name": "가족과결혼",
+            "credits": "3",
+            "professor": "곽정임",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20855",
+            "section": "002",
+            "name": "가족과결혼",
+            "credits": "3",
+            "professor": "곽정임",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20855",
+            "section": "003",
+            "name": "가족과결혼",
+            "credits": "3",
+            "professor": "한혜영",
+            "time": "목10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20856",
+            "section": "001",
+            "name": "미디어로 세상읽기",
+            "credits": "3",
+            "professor": "이민형",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20856",
+            "section": "002",
+            "name": "미디어로 세상읽기",
+            "credits": "3",
+            "professor": "정가은",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20857",
+            "section": "001",
+            "name": "생활속의 심리학",
+            "credits": "3",
+            "professor": "전요섭",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20857",
+            "section": "003",
+            "name": "생활속의 심리학",
+            "credits": "3",
+            "professor": "박성은",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20858",
+            "section": "001",
+            "name": "영화로만나는서양 고전",
+            "credits": "3",
+            "professor": "설면희",
+            "time": "목7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20858",
+            "section": "002",
+            "name": "영화로만나는서양 고전",
+            "credits": "3",
+            "professor": "설면희",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20859",
+            "section": "001",
+            "name": "디지털시대의1인 미디어 연출",
+            "credits": "3",
+            "professor": "이수미",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20860",
+            "section": "001",
+            "name": "빅데이터 분석을 위한 통계",
+            "credits": "3",
+            "professor": "전진오",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20862",
+            "section": "001",
+            "name": "디자인과 예술",
+            "credits": "3",
+            "professor": "홍일",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20864",
+            "section": "001",
+            "name": "미래사회 예측과 변화",
+            "credits": "3",
+            "professor": "김진",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "20864",
+            "section": "002",
+            "name": "미래사회 예측과 변화",
+            "credits": "3",
+            "professor": "이경욱",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21100",
+            "section": "001",
+            "name": "메타버스의 이해",
+            "credits": "3",
+            "professor": "박상희",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21100",
+            "section": "003",
+            "name": "메타버스의 이해",
+            "credits": "3",
+            "professor": "박상희",
+            "time": "월10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21102",
+            "section": "001",
+            "name": "창업경영 비즈니스모델",
+            "credits": "3",
+            "professor": "송찬규",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21104",
+            "section": "001",
+            "name": "기독교세계관과 사회문화",
+            "credits": "3",
+            "professor": "이상록",
+            "time": "월7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21104",
+            "section": "002",
+            "name": "기독교세계관과 사회문화",
+            "credits": "3",
+            "professor": "이승용",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21106",
+            "section": "001",
+            "name": "이미지메이킹",
+            "credits": "3",
+            "professor": "표연수",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21121",
+            "section": "001",
+            "name": "복지사회의 미래와행복론",
+            "credits": "3",
+            "professor": "이희영",
+            "time": "수10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21121",
+            "section": "002",
+            "name": "복지사회의 미래와행복론",
+            "credits": "3",
+            "professor": "이희영",
+            "time": "목4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21464",
+            "section": "001",
+            "name": "문화콘텐츠창업의이해",
+            "credits": "3",
+            "professor": "한상필",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21464",
+            "section": "003",
+            "name": "문화콘텐츠창업의이해",
+            "credits": "3",
+            "professor": "한상필",
+            "time": "화10-12"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21465",
+            "section": "001",
+            "name": "창업사업계획서작성법",
+            "credits": "3",
+            "professor": "이승환",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21656",
+            "section": "001",
+            "name": "디지털콘텐츠편집",
+            "credits": "3",
+            "professor": "정명범",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21743",
+            "section": "001",
+            "name": "공동주택분쟁이해(KCU온라인강좌)",
+            "credits": "3",
+            "professor": "",
+            "time": ""
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21744",
+            "section": "001",
+            "name": "사례를통해서배우는갈등해결의지혜(KCU온라인강좌)",
+            "credits": "3",
+            "professor": "",
+            "time": ""
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21930",
+            "section": "001",
+            "name": "범죄심리와교정교화",
+            "credits": "3",
+            "professor": "김성곤",
+            "time": "수1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21930",
+            "section": "002",
+            "name": "범죄심리와교정교화",
+            "credits": "3",
+            "professor": "김성곤",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21931",
+            "section": "001",
+            "name": "생명,삶과죽음의심리철학",
+            "credits": "3",
+            "professor": "박성은",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21933",
+            "section": "001",
+            "name": "생활속의연기체험",
+            "credits": "3",
+            "professor": "이신영",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21933",
+            "section": "002",
+            "name": "생활속의연기체험",
+            "credits": "3",
+            "professor": "이신영",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21937",
+            "section": "001",
+            "name": "디자인씽킹",
+            "credits": "3",
+            "professor": "김진",
+            "time": "화7-9"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "21937",
+            "section": "002",
+            "name": "디자인씽킹",
+            "credits": "3",
+            "professor": "방미향",
+            "time": "금1-3"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "001",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "이신영",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "002",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "송예진",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "003",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "송효진",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "004",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "박성준",
+            "time": "토7-7"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "005",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "김기윤",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "006",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "임형백",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "007",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "방준영",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22007",
+            "section": "008",
+            "name": "진로설계(자율전공학부)",
+            "credits": "0",
+            "professor": "김경배",
+            "time": "토1-1"
+        },
+        {
+            "grade": "1",
+            "type": "교선",
+            "id": "22059",
+            "section": "001",
+            "name": "(자기표현을위한)미술심리치료의이해(KCU온라인강좌)",
+            "credits": "3",
+            "professor": "",
+            "time": ""
+        }
+    ]
+}

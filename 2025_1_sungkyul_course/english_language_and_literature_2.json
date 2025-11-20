@@ -1,0 +1,45 @@
+{
+    "major": "영어영문학과(2부)",
+    "course": [
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01093",
+            "section": "002",
+            "name": "영어문법의이해(원격수업)",
+            "credits": "3",
+            "professor": "이정아",
+            "time": "월10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07394",
+            "section": "002",
+            "name": "영국문학개론(원격수업)",
+            "credits": "3",
+            "professor": "김희선",
+            "time": "화10-12"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "07505",
+            "section": "002",
+            "name": "영어발음의원리와연습",
+            "credits": "3",
+            "professor": "권미숙",
+            "time": "목10-12"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01041",
+            "section": "002",
+            "name": "영국소설",
+            "credits": "3",
+            "professor": "황양미",
+            "time": "수10-12"
+        }
+    ]
+}

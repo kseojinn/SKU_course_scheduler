@@ -1,0 +1,155 @@
+{
+    "major": "도시디자인정보공학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "20056",
+            "section": "001",
+            "name": "도시의이해",
+            "credits": "3",
+            "professor": "조우현",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21179",
+            "section": "001",
+            "name": "도시빅데이터",
+            "credits": "3",
+            "professor": "오은석",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "19951",
+            "section": "001",
+            "name": "도시조사방법론",
+            "credits": "3",
+            "professor": "김수재",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20059",
+            "section": "001",
+            "name": "주민참여론",
+            "credits": "3",
+            "professor": "임하나",
+            "time": "수1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20060",
+            "section": "001",
+            "name": "도시계획원론",
+            "credits": "3",
+            "professor": "문채",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20061",
+            "section": "001",
+            "name": "마을만들기 이론 및 실습",
+            "credits": "3",
+            "professor": "오은석",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "06277",
+            "section": "001",
+            "name": "지리정보체계론",
+            "credits": "3",
+            "professor": "이동우",
+            "time": "수1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20067",
+            "section": "001",
+            "name": "환경계획론",
+            "credits": "3",
+            "professor": "유창형",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20069",
+            "section": "001",
+            "name": "단지설계방법론",
+            "credits": "3",
+            "professor": "한홍구",
+            "time": "목7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20082",
+            "section": "001",
+            "name": "교통 및 물류론",
+            "credits": "3",
+            "professor": "김수재",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21180",
+            "section": "001",
+            "name": "도시재개발 및도시재생",
+            "credits": "3",
+            "professor": "문채",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19494",
+            "section": "001",
+            "name": "도시관리론",
+            "credits": "3",
+            "professor": "오은열",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "19968",
+            "section": "001",
+            "name": "도시계획사",
+            "credits": "3",
+            "professor": "이범현",
+            "time": "수4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "20075",
+            "section": "001",
+            "name": "인프라계획",
+            "credits": "3",
+            "professor": "정동선",
+            "time": "수1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21181",
+            "section": "001",
+            "name": "도시설계 실습",
+            "credits": "3",
+            "professor": "이범현",
+            "time": "수7-9"
+        }
+    ]
+}

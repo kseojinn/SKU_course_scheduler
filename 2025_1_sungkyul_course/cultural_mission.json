@@ -1,0 +1,95 @@
+{
+    "major": "문화선교학과",
+    "course": [
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "20943",
+            "section": "002",
+            "name": "NGO와 사회선교",
+            "credits": "3",
+            "professor": "구성모",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21474",
+            "section": "003",
+            "name": "구약성서이야기",
+            "credits": "3",
+            "professor": "최기수",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "21482",
+            "section": "001",
+            "name": "디지털영상콘텐츠",
+            "credits": "3",
+            "professor": "백종범",
+            "time": "수7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "19424",
+            "section": "001",
+            "name": "다문화교육론(원격수업)",
+            "credits": "3",
+            "professor": "정미경",
+            "time": "목1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20437",
+            "section": "002",
+            "name": "한류와글로벌리즘",
+            "credits": "3",
+            "professor": "이수환",
+            "time": "수1-3"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21476",
+            "section": "001",
+            "name": "스토리텔링과스피치",
+            "credits": "3",
+            "professor": "오현철",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "21479",
+            "section": "001",
+            "name": "언론과뉴미디어",
+            "credits": "3",
+            "professor": "윤영훈",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "19847",
+            "section": "002",
+            "name": "사역실습",
+            "credits": "0",
+            "professor": "윤영훈",
+            "time": "목10-10"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "21175",
+            "section": "001",
+            "name": "북한선교",
+            "credits": "3",
+            "professor": "이수환",
+            "time": "수4-6"
+        }
+    ]
+}

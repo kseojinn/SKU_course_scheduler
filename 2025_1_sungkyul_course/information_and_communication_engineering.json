@@ -1,0 +1,305 @@
+{
+    "major": "정보통신공학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "01652",
+            "section": "001",
+            "name": "프로그래밍언어",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "화4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "01652",
+            "section": "002",
+            "name": "프로그래밍언어",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전필",
+            "id": "01652",
+            "section": "003",
+            "name": "프로그래밍언어",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01353",
+            "section": "001",
+            "name": "논리회로",
+            "credits": "3",
+            "professor": "김용규",
+            "time": "목4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01353",
+            "section": "002",
+            "name": "논리회로",
+            "credits": "3",
+            "professor": "김용규",
+            "time": "목7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01362",
+            "section": "001",
+            "name": "데이터통신",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01362",
+            "section": "002",
+            "name": "데이터통신",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "월7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01667",
+            "section": "001",
+            "name": "기초전자",
+            "credits": "3",
+            "professor": "윤기호",
+            "time": "화1-3"
+        },
+        {
+            "grade": "2",
+            "type": "전필",
+            "id": "01667",
+            "section": "002",
+            "name": "기초전자",
+            "credits": "3",
+            "professor": "윤기호",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01305",
+            "section": "001",
+            "name": "컴퓨터구조",
+            "credits": "3",
+            "professor": "이재철",
+            "time": "화4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01305",
+            "section": "002",
+            "name": "컴퓨터구조",
+            "credits": "3",
+            "professor": "이재철",
+            "time": "화7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01690",
+            "section": "002",
+            "name": "데이터구조",
+            "credits": "3",
+            "professor": "문형진",
+            "time": "수4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "01690",
+            "section": "003",
+            "name": "데이터구조",
+            "credits": "3",
+            "professor": "문형진",
+            "time": "수7-9"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18436",
+            "section": "001",
+            "name": "프로그래밍설계",
+            "credits": "3",
+            "professor": "정복래",
+            "time": "월4-6"
+        },
+        {
+            "grade": "2",
+            "type": "전선",
+            "id": "18436",
+            "section": "002",
+            "name": "프로그래밍설계",
+            "credits": "3",
+            "professor": "정복래",
+            "time": "월7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01308",
+            "section": "001",
+            "name": "운영체제",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "화4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01308",
+            "section": "003",
+            "name": "운영체제",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "01699",
+            "section": "001",
+            "name": "임베디드시스템",
+            "credits": "3",
+            "professor": "김용규",
+            "time": "화7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "06263",
+            "section": "002",
+            "name": "모바일프로그래밍",
+            "credits": "3",
+            "professor": "이광수",
+            "time": "금4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "06263",
+            "section": "003",
+            "name": "모바일프로그래밍",
+            "credits": "3",
+            "professor": "이광수",
+            "time": "금7-9"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "18268",
+            "section": "001",
+            "name": "디지털통신시스템",
+            "credits": "3",
+            "professor": "윤기호",
+            "time": "목4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20893",
+            "section": "001",
+            "name": "웹서버프로그래밍",
+            "credits": "3",
+            "professor": "정복래",
+            "time": "수4-6"
+        },
+        {
+            "grade": "3",
+            "type": "전선",
+            "id": "20893",
+            "section": "002",
+            "name": "웹서버프로그래밍",
+            "credits": "3",
+            "professor": "정복래",
+            "time": "수7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "18438",
+            "section": "001",
+            "name": "종합설계",
+            "credits": "3",
+            "professor": "정복래",
+            "time": "화1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전필",
+            "id": "18438",
+            "section": "002",
+            "name": "종합설계",
+            "credits": "3",
+            "professor": "김인겸",
+            "time": "화7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01727",
+            "section": "001",
+            "name": "이동통신",
+            "credits": "3",
+            "professor": "박찬욱",
+            "time": "월1-3"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "01727",
+            "section": "002",
+            "name": "이동통신",
+            "credits": "3",
+            "professor": "박찬욱",
+            "time": "월7-9"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "03022",
+            "section": "001",
+            "name": "정보보안",
+            "credits": "3",
+            "professor": "박찬욱",
+            "time": "월4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "03022",
+            "section": "002",
+            "name": "정보보안",
+            "credits": "3",
+            "professor": "박찬욱",
+            "time": "화4-6"
+        },
+        {
+            "grade": "4",
+            "type": "전선",
+            "id": "22010",
+            "section": "001",
+            "name": "가상화실습(학생제안과목)",
+            "credits": "3",
+            "professor": "김도규",
+            "time": "월10-12"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "major": "글로벌물류학과",
+    "course": [
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02001",
+            "section": "001",
+            "name": "기초일본어(1)",
+            "credits": "3",
+            "professor": "임태균",
+            "time": "목1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02001",
+            "section": "002",
+            "name": "기초일본어(1)",
+            "credits": "3",
+            "professor": "AIZAWAYUKA",
+            "time": "월1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02001",
+            "section": "003",
+            "name": "기초일본어(1)",
+            "credits": "3",
+            "professor": "AIZAWAYUKA",
+            "time": "수7-9"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "02001",
+            "section": "004",
+            "name": "기초일본어(1)",
+            "credits": "3",
+            "professor": "홍지형",
+            "time": "금4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "18121",
+            "section": "002",
+            "name": "국제해운론",
+            "credits": "3",
+            "professor": "전준우",
+            "time": "수4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21919",
+            "section": "001",
+            "name": "글로컬과물류",
+            "credits": "3",
+            "professor": "이준서",
+            "time": "월4-6"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21919",
+            "section": "002",
+            "name": "글로컬과물류",
+            "credits": "3",
+            "professor": "이준서",
+            "time": "화1-3"
+        },
+        {
+            "grade": "1",
+            "type": "전선",
+            "id": "21919",
+            "section": "003",
+            "name": "글로컬과물류",
+            "credits": "3",
+            "professor": "이준서",
+            "time": "수4-6"
+        }
+    ]
+}
