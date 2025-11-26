@@ -670,7 +670,7 @@ def main():
         st.subheader("🧬 알고리즘 선택")
         algorithm = st.selectbox(
             "최적화 알고리즘",
-            options=["하이브리드 (추천)", "유전 알고리즘", "시뮬레이티드 어닐링"]
+            options=["하이브리드", "유전 알고리즘", "시뮬레이티드 어닐링"]
         )
         
         st.subheader("📊 목표 학점")
@@ -792,7 +792,7 @@ def main():
                         optimizer.set_excluded_courses(all_excluded_keys)
                         optimizer.set_mandatory_courses(mandatory_course_objects)
                         
-                        if algorithm == "하이브리드 (추천)":
+                        if algorithm == "하이브리드":
                             best_timetable = optimizer.hybrid_algorithm(target_credits)
                         elif algorithm == "유전 알고리즘":
                             best_timetable = optimizer.genetic_algorithm(target_credits)
