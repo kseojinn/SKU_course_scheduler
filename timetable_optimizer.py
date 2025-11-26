@@ -653,7 +653,7 @@ def main():
         st.subheader("📂 데이터 경로 설정")
         data_path = st.text_input(
             "강의 데이터 폴더 경로",
-            value=r"C:\Users\kseoj\Downloads\sku\course\CE_2\2025_1_sungkyul_course"
+            value=r"C:\"
         )
         
         selected_department = st.selectbox(
