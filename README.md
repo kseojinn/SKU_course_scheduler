@@ -3,6 +3,8 @@
 ### 구현 기술 스택
 
 - Python
+- Pandas
+- Numpy
 - Streamlit
 
 ### 참고 사항
