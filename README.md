@@ -20,6 +20,12 @@
 ```
 ### 실행
 
+- bash
 ```
 stremlit run timetable_optimizer.py
+```
+
+- 로컬 호스트 접속
+```
+http://localhost:8501
 ```
